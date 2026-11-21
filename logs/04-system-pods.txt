@@ -1,0 +1,9 @@
+NAMESPACE     NAME                             READY   STATUS    RESTARTS   AGE
+kube-system   coredns-559f6c778d-6g8lq         1/1     Running   0          3m10s
+kube-system   etcd-de-k8s                      1/1     Running   0          3m16s
+kube-system   kindnet-4mgxc                    1/1     Running   0          3m10s
+kube-system   kube-apiserver-de-k8s            1/1     Running   0          3m16s
+kube-system   kube-controller-manager-de-k8s   1/1     Running   0          3m16s
+kube-system   kube-proxy-clkql                 1/1     Running   0          3m10s
+kube-system   kube-scheduler-de-k8s            1/1     Running   0          3m16s
+kube-system   storage-provisioner              1/1     Running   0          3m15s

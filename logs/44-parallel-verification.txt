@@ -1,0 +1,53 @@
+PAIR | COUNT
+c++ + linux | 208
+git + linux | 151
+c/c++ + linux | 142
+c++ + git | 131
+c++ + qt | 98
+c++ + stl | 96
+c++ + c/c++ | 76
+linux + qt | 75
+c/c++ + git | 73
+c++ + python | 72
+{
+  "source": "Four complete CSV files downloaded from the existing Indexed Job outputs",
+  "parts": [
+    {
+      "index": 0,
+      "key": "results/parts/part-0.csv",
+      "sha256": "e2d98d96ce92dde756dae7be8a07be0780470e6097b25103ea2ea3cc2e85e687",
+      "unique_pairs": 2017,
+      "sum_counts": 2876
+    },
+    {
+      "index": 1,
+      "key": "results/parts/part-1.csv",
+      "sha256": "6d6de675ed0d0afada36afc0f7bca161e74fae7cdd31bf6375629a43f2673541",
+      "unique_pairs": 2623,
+      "sum_counts": 3810
+    },
+    {
+      "index": 2,
+      "key": "results/parts/part-2.csv",
+      "sha256": "8b5e9928273c0fe2cc67b3c9985ffc4f46c4e5c4643d34083cc9599baf3615bb",
+      "unique_pairs": 2144,
+      "sum_counts": 3607
+    },
+    {
+      "index": 3,
+      "key": "results/parts/part-3.csv",
+      "sha256": "6719b656ac641ad5258054e243c94741a381dc13040622a20de2ac9e0ead8177",
+      "unique_pairs": 1945,
+      "sum_counts": 3175
+    }
+  ],
+  "unique_pairs": 6800,
+  "sum_counts": 13468,
+  "full_counts_equal": true,
+  "full_csv_bytes_equal": true,
+  "top10_equal": true,
+  "output_sha256": "db3fb5953e52b8316ce2c1e9d158e1e1b356bdc0f88e487505ce4bb94f2b61f9",
+  "reference_sha256": "db3fb5953e52b8316ce2c1e9d158e1e1b356bdc0f88e487505ce4bb94f2b61f9",
+  "s3_output": "s3://hh-lake/results/merged/counts_k2.csv"
+}
+Full parallel result and top-10 match HW3: True

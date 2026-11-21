@@ -1,0 +1,66 @@
+pod "cpu-holder" deleted from hh-lab namespace
+pod/cpu-waiter condition met
+NAME         READY   STATUS    RESTARTS   AGE
+cpu-waiter   1/1     Running   0          50s
+Name:             cpu-waiter
+Namespace:        hh-lab
+Priority:         0
+Service Account:  default
+Node:             de-k8s/192.168.49.2
+Start Time:       Sat, 21 Nov 2026 12:02:02 +0300
+Labels:           <none>
+Annotations:      <none>
+Status:           Running
+IP:               10.244.0.12
+IPs:
+  IP:  10.244.0.12
+Containers:
+  sleeper:
+    Container ID:  containerd://c63ba5188b1da4dbe3949a05293059d97209275944ae8122eaaab9131e929484
+    Image:         hh-pairs:lab
+    Image ID:      sha256:4d2923f1678fb83e99cd4644371b30520d3092749db077041574ad3795d06e26
+    Port:          <none>
+    Host Port:     <none>
+    Command:
+      python3
+      -c
+      import time; time.sleep(3600)
+    State:          Running
+      Started:      Sat, 21 Nov 2026 12:02:03 +0300
+    Ready:          True
+    Restart Count:  0
+    Limits:
+      cpu:     2
+      memory:  128Mi
+    Requests:
+      cpu:        2
+      memory:     32Mi
+    Environment:  <none>
+    Mounts:
+      /var/run/secrets/kubernetes.io/serviceaccount from kube-api-access-5dl6q (ro)
+Conditions:
+  Type                        Status
+  PodReadyToStartContainers   True 
+  Initialized                 True 
+  Ready                       True 
+  ContainersReady             True 
+  PodScheduled                True 
+Volumes:
+  kube-api-access-5dl6q:
+    Type:                    Projected (a volume that contains injected data from multiple sources)
+    TokenExpirationSeconds:  3607
+    ConfigMapName:           kube-root-ca.crt
+    Optional:                false
+    DownwardAPI:             true
+QoS Class:                   Burstable
+Node-Selectors:              <none>
+Tolerations:                 node.kubernetes.io/not-ready:NoExecute op=Exists for 300s
+                             node.kubernetes.io/unreachable:NoExecute op=Exists for 300s
+Events:
+  Type     Reason            Age   From               Message
+  ----     ------            ----  ----               -------
+  Warning  FailedScheduling  50s   default-scheduler  0/1 nodes are available: 1 Insufficient cpu. preemption: 0/1 nodes are available: 1 No preemption victims found for incoming pod.
+  Normal   Scheduled         1s    default-scheduler  Successfully assigned hh-lab/cpu-waiter to de-k8s
+  Normal   Pulled            0s    kubelet            spec.containers{sleeper}: Container image "hh-pairs:lab" already present on machine and can be accessed by the pod
+  Normal   Created           0s    kubelet            spec.containers{sleeper}: Container created
+  Normal   Started           0s    kubelet            spec.containers{sleeper}: Container started

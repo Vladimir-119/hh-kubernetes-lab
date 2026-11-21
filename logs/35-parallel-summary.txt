@@ -1,0 +1,11 @@
+INDEX | ROWS | SELECTED | PAIR_OCCURRENCES | PEAK_CGROUP_MIB
+0 | 17193 | 235 | 2876 | 43.293
+1 | 17193 | 201 | 3810 | 43.809
+2 | 17193 | 220 | 3607 | 43.43
+3 | 17191 | 213 | 3175 | 43.652
+Total rows: 68770
+Total selected vacancies: 869
+Total pair occurrences: 13468
+Max concurrent workers observed: 2
+Max container memory peak: 43.809 MiB
+All four indexes completed; partial totals match HW3: True

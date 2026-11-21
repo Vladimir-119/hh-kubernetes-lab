@@ -1,0 +1,2018 @@
+skills,n
+"[""c++"", ""linux""]",46
+"[""c/c++"", ""linux""]",38
+"[""git"", ""linux""]",30
+"[""c++"", ""git""]",29
+"[""c++"", ""qt""]",28
+"[""c++"", ""stl""]",26
+"[""c++"", ""c/c++""]",20
+"[""c/c++"", ""git""]",20
+"[""c++"", ""ооп""]",18
+"[""linux"", ""qt""]",16
+"[""git"", ""qt""]",15
+"[""c++"", ""python""]",12
+"[""linux"", ""postgresql""]",12
+"[""linux"", ""python""]",12
+"[""linux"", ""sql""]",12
+"[""linux"", ""tcp/ip""]",12
+"[""c++"", ""sql""]",11
+"[""git"", ""ооп""]",11
+"[""c++"", ""postgresql""]",10
+"[""c/c++"", ""qt""]",10
+"[""c/c++"", ""stl""]",10
+"[""c/c++"", ""tcp/ip""]",10
+"[""linux"", ""stl""]",10
+"[""linux"", ""ооп""]",10
+"[""qt"", ""ооп""]",9
+"[""boost"", ""c++""]",8
+"[""boost"", ""stl""]",8
+"[""c++"", ""ms visual studio""]",8
+"[""c/c++"", ""ооп""]",8
+"[""git"", ""postgresql""]",8
+"[""git"", ""python""]",8
+"[""git"", ""stl""]",8
+"[""qt"", ""stl""]",8
+"[""c++"", ""cad""]",7
+"[""c++"", ""tcp/ip""]",7
+"[""c++"", ""английский язык""]",7
+"[""git"", ""tcp/ip""]",7
+"[""postgresql"", ""sql""]",7
+"[""stl"", ""ооп""]",7
+"[""bash"", ""linux""]",6
+"[""c"", ""linux""]",6
+"[""c++"", ""cmake""]",6
+"[""c++"", ""opengl""]",6
+"[""c++"", ""разработка по""]",6
+"[""python"", ""qt""]",6
+"[""c/c++"", ""ms visual studio""]",5
+"[""c/c++"", ""python""]",5
+"[""c/c++"", ""sql""]",5
+"[""git"", ""ms visual studio""]",5
+"[""linux"", ""ms visual studio""]",5
+"[""linux"", ""mysql""]",5
+"[""linux"", ""разработка по""]",5
+"[""ms visual studio"", ""ооп""]",5
+"[""postgresql"", ""qt""]",5
+"[""arm"", ""c/c++""]",4
+"[""bash"", ""c/c++""]",4
+"[""bash"", ""git""]",4
+"[""c++"", ""microsoft visual studio""]",4
+"[""c++"", ""svn""]",4
+"[""c/c++"", ""mysql""]",4
+"[""c/c++"", ""postgresql""]",4
+"[""c/c++"", ""разработка по""]",4
+"[""git"", ""gitlab""]",4
+"[""git"", ""sql""]",4
+"[""git"", ""английский язык""]",4
+"[""git"", ""разработка по""]",4
+"[""linux"", ""oracle""]",4
+"[""linux"", ""osi""]",4
+"[""linux"", ""unix""]",4
+"[""linux"", ""английский язык""]",4
+"[""opengl"", ""qt""]",4
+"[""python"", ""sql""]",4
+"[""arm"", ""c++""]",3
+"[""arm"", ""git""]",3
+"[""arm"", ""linux""]",3
+"[""atlassian jira"", ""git""]",3
+"[""bash"", ""python""]",3
+"[""boost"", ""cmake""]",3
+"[""c"", ""git""]",3
+"[""c++"", ""docker""]",3
+"[""c++"", ""gitlab""]",3
+"[""c++"", ""multithread programming""]",3
+"[""c++"", ""mysql""]",3
+"[""c++"", ""oracle""]",3
+"[""c++"", ""qml""]",3
+"[""c++"", ""qnx""]",3
+"[""c++"", ""unix""]",3
+"[""c++"", ""алгоритмы""]",3
+"[""c++"", ""алгоритмы и структуры данных""]",3
+"[""c/c++"", ""microsoft visual studio""]",3
+"[""c/c++"", ""osi""]",3
+"[""c/c++"", ""unix""]",3
+"[""cad"", ""qt""]",3
+"[""cmake"", ""stl""]",3
+"[""dpdk"", ""linux""]",3
+"[""embedded"", ""linux""]",3
+"[""game programming"", ""gamedev""]",3
+"[""git"", ""svn""]",3
+"[""gitlab"", ""qt""]",3
+"[""linux"", ""multithread programming""]",3
+"[""linux"", ""qml""]",3
+"[""linux"", ""qnx""]",3
+"[""linux"", ""udp""]",3
+"[""linux"", ""с""]",3
+"[""microsoft visual studio"", ""ms visual studio""]",3
+"[""ms visual c++"", ""ms visual studio""]",3
+"[""ms visual studio"", ""qt""]",3
+"[""mysql"", ""oracle""]",3
+"[""mysql"", ""postgresql""]",3
+"[""opengl"", ""stl""]",3
+"[""opengl"", ""ооп""]",3
+"[""postgresql"", ""python""]",3
+"[""python"", ""stl""]",3
+"[""python"", ""ооп""]",3
+"[""qml"", ""qt""]",3
+"[""qt"", ""tcp/ip""]",3
+"[""qt"", ""разработка по""]",3
+"[""sql"", ""stl""]",3
+"[""tcp/ip"", ""udp""]",3
+"["".net framework"", ""c#""]",2
+"["".net framework"", ""c++""]",2
+"[""3d моделирование"", ""c++""]",2
+"[""3d моделирование"", ""cad""]",2
+"[""assembler"", ""английский язык""]",2
+"[""assembler"", ""поиск информации в интернет""]",2
+"[""assembler"", ""сводные таблицы""]",2
+"[""assembler"", ""умение работать в коллективе""]",2
+"[""atlassian jira"", ""c/c++""]",2
+"[""atlassian jira"", ""linux""]",2
+"[""atlassian jira"", ""qt""]",2
+"[""bash"", ""c++""]",2
+"[""bash"", ""shell""]",2
+"[""bash"", ""tcp/ip""]",2
+"[""bash"", ""unix""]",2
+"[""bash"", ""ооп""]",2
+"[""bash"", ""с""]",2
+"[""boost"", ""git""]",2
+"[""boost"", ""sql""]",2
+"[""c"", ""c++""]",2
+"[""c"", ""tcp/ip""]",2
+"[""c#"", ""c++""]",2
+"[""c++"", ""c++11""]",2
+"[""c++"", ""c++17""]",2
+"[""c++"", ""code review""]",2
+"[""c++"", ""cuda""]",2
+"[""c++"", ""embedded""]",2
+"[""c++"", ""ethernet""]",2
+"[""c++"", ""game programming""]",2
+"[""c++"", ""gamedev""]",2
+"[""c++"", ""go""]",2
+"[""c++"", ""java""]",2
+"[""c++"", ""mfc""]",2
+"[""c++"", ""ms visual c++""]",2
+"[""c++"", ""osi""]",2
+"[""c++"", ""qt5+""]",2
+"[""c++"", ""redmine""]",2
+"[""c++"", ""unit-тесты""]",2
+"[""c++"", ""wifi networks""]",2
+"[""c++"", ""winapi""]",2
+"[""c++"", ""windows""]",2
+"[""c++"", ""xml""]",2
+"[""c++"", ""линейная алгебра""]",2
+"[""c++"", ""математическое моделирование""]",2
+"[""c++"", ""работа в команде""]",2
+"[""c++"", ""сапр""]",2
+"[""c++17"", ""git""]",2
+"[""c/c++"", ""dpdk""]",2
+"[""c/c++"", ""embedded""]",2
+"[""c/c++"", ""ethernet""]",2
+"[""c/c++"", ""jira""]",2
+"[""c/c++"", ""matlab""]",2
+"[""c/c++"", ""ms sql""]",2
+"[""c/c++"", ""ms visual c++""]",2
+"[""c/c++"", ""posix""]",2
+"[""c/c++"", ""qt creator""]",2
+"[""c/c++"", ""shell""]",2
+"[""c/c++"", ""simulink""]",2
+"[""c/c++"", ""udp""]",2
+"[""c/c++"", ""wifi networks""]",2
+"[""c/c++"", ""английский язык""]",2
+"[""c/c++"", ""субд""]",2
+"[""c/c++"", ""цос""]",2
+"[""cad"", ""opengl""]",2
+"[""cad"", ""stl""]",2
+"[""cad"", ""сапр""]",2
+"[""cmake"", ""opengl""]",2
+"[""cuda"", ""git""]",2
+"[""cuda"", ""linux""]",2
+"[""cuda"", ""python""]",2
+"[""docker"", ""linux""]",2
+"[""embedded"", ""git""]",2
+"[""ethernet"", ""linux""]",2
+"[""ethernet"", ""tcp/ip""]",2
+"[""ethernet"", ""wifi networks""]",2
+"[""game programming"", ""stl""]",2
+"[""gamedev"", ""stl""]",2
+"[""git"", ""matlab""]",2
+"[""git"", ""opengl""]",2
+"[""git"", ""qml""]",2
+"[""git"", ""redmine""]",2
+"[""git"", ""scrum""]",2
+"[""git"", ""simulink""]",2
+"[""git"", ""udp""]",2
+"[""git"", ""unit-тесты""]",2
+"[""git"", ""unix""]",2
+"[""git"", ""с""]",2
+"[""git"", ""цос""]",2
+"[""go"", ""linux""]",2
+"[""jira"", ""linux""]",2
+"[""linux"", ""ms sql""]",2
+"[""linux"", ""opengl""]",2
+"[""linux"", ""scrum""]",2
+"[""linux"", ""shell""]",2
+"[""linux"", ""unit-тесты""]",2
+"[""linux"", ""wifi networks""]",2
+"[""linux"", ""windows""]",2
+"[""matlab"", ""simulink""]",2
+"[""matlab"", ""цос""]",2
+"[""microsoft visual studio"", ""ms visual c++""]",2
+"[""microsoft visual studio"", ""английский язык""]",2
+"[""ms visual studio"", ""stl""]",2
+"[""ms visual studio"", ""unix""]",2
+"[""ms visual studio"", ""английский язык""]",2
+"[""mysql"", ""sql""]",2
+"[""mysql"", ""разработка по""]",2
+"[""opengl"", ""английский язык""]",2
+"[""oracle"", ""postgresql""]",2
+"[""oracle"", ""sql""]",2
+"[""oracle"", ""разработка по""]",2
+"[""posix"", ""stl""]",2
+"[""postgresql"", ""svn""]",2
+"[""postgresql"", ""unit-тесты""]",2
+"[""python"", ""tcp/ip""]",2
+"[""qnx"", ""qt""]",2
+"[""qt"", ""sql""]",2
+"[""qt"", ""unit-тесты""]",2
+"[""qt"", ""с++""]",2
+"[""qt"", ""субд""]",2
+"[""simulink"", ""цос""]",2
+"[""sql"", ""svn""]",2
+"[""sql"", ""unix""]",2
+"[""sql"", ""winapi""]",2
+"[""sql"", ""ооп""]",2
+"[""stl"", ""tcp/ip""]",2
+"[""stl"", ""winapi""]",2
+"[""stl"", ""xml""]",2
+"[""stl"", ""алгоритмы""]",2
+"[""stl"", ""алгоритмы и структуры данных""]",2
+"[""stl"", ""английский язык""]",2
+"[""svn"", ""ооп""]",2
+"[""tcp/ip"", ""wifi networks""]",2
+"[""tcp/ip"", ""ооп""]",2
+"[""английский язык"", ""ооп""]",2
+"[""английский язык"", ""поиск информации в интернет""]",2
+"[""английский язык"", ""сводные таблицы""]",2
+"[""английский язык"", ""умение работать в коллективе""]",2
+"[""ооп"", ""разработка по""]",2
+"[""поиск информации в интернет"", ""сводные таблицы""]",2
+"[""поиск информации в интернет"", ""умение работать в коллективе""]",2
+"[""сводные таблицы"", ""умение работать в коллективе""]",2
+"["".net core"", "".net framework""]",1
+"["".net core"", ""c#""]",1
+"["".net core"", ""c++""]",1
+"["".net core"", ""ms visual studio""]",1
+"["".net core"", ""mysql""]",1
+"["".net core"", ""windows forms""]",1
+"["".net framework"", ""3d моделирование""]",1
+"["".net framework"", ""3d-графика""]",1
+"["".net framework"", ""c/c++""]",1
+"["".net framework"", ""cad""]",1
+"["".net framework"", ""git""]",1
+"["".net framework"", ""ms sql server""]",1
+"["".net framework"", ""ms visual studio""]",1
+"["".net framework"", ""mysql""]",1
+"["".net framework"", ""postgresql""]",1
+"["".net framework"", ""sql""]",1
+"["".net framework"", ""svn""]",1
+"["".net framework"", ""win32 api""]",1
+"["".net framework"", ""windows api""]",1
+"["".net framework"", ""windows forms""]",1
+"["".net framework"", ""с#""]",1
+"["".net framework"", ""сапр""]",1
+"["".𝐍𝐞𝐭"", ""английский язык""]",1
+"["".𝐍𝐞𝐭"", ""с#""]",1
+"["".𝐍𝐞𝐭"", ""𝐂++""]",1
+"[""3d"", ""c++""]",1
+"[""3d"", ""computer vision""]",1
+"[""3d"", ""git""]",1
+"[""3d"", ""images processing""]",1
+"[""3d"", ""opengl""]",1
+"[""3d"", ""qt""]",1
+"[""3d"", ""stl""]",1
+"[""3d"", ""алгоритмы""]",1
+"[""3d"", ""аналитическая геометрия""]",1
+"[""3d"", ""аналитическое мышление""]",1
+"[""3d"", ""желание работать и развиваться""]",1
+"[""3d"", ""линейная алгебра""]",1
+"[""3d"", ""ооп""]",1
+"[""3d"", ""программирование 3d-графики""]",1
+"[""3d моделирование"", ""3d-графика""]",1
+"[""3d моделирование"", ""c#""]",1
+"[""3d моделирование"", ""git""]",1
+"[""3d моделирование"", ""ms sql server""]",1
+"[""3d моделирование"", ""opengl""]",1
+"[""3d моделирование"", ""postgresql""]",1
+"[""3d моделирование"", ""qt""]",1
+"[""3d моделирование"", ""sql""]",1
+"[""3d моделирование"", ""svn""]",1
+"[""3d моделирование"", ""windows api""]",1
+"[""3d моделирование"", ""сапр""]",1
+"[""3d-графика"", ""c#""]",1
+"[""3d-графика"", ""c++""]",1
+"[""3d-графика"", ""cad""]",1
+"[""3d-графика"", ""git""]",1
+"[""3d-графика"", ""ms sql server""]",1
+"[""3d-графика"", ""postgresql""]",1
+"[""3d-графика"", ""sql""]",1
+"[""3d-графика"", ""svn""]",1
+"[""3d-графика"", ""windows api""]",1
+"[""3d-графика"", ""сапр""]",1
+"[""4g"", ""bitbake""]",1
+"[""4g"", ""bluetooth""]",1
+"[""4g"", ""c++""]",1
+"[""4g"", ""embedded""]",1
+"[""4g"", ""emv""]",1
+"[""4g"", ""exe""]",1
+"[""4g"", ""git""]",1
+"[""4g"", ""gitlab""]",1
+"[""4g"", ""iot""]",1
+"[""4g"", ""linux""]",1
+"[""4g"", ""mdb""]",1
+"[""4g"", ""nfc""]",1
+"[""4g"", ""openembedded""]",1
+"[""4g"", ""pci dss""]",1
+"[""4g"", ""pulse""]",1
+"[""4g"", ""qml""]",1
+"[""4g"", ""qt""]",1
+"[""4g"", ""scrum""]",1
+"[""4g"", ""wifi""]",1
+"[""4g"", ""yocto""]",1
+"[""af_xdp"", ""c""]",1
+"[""af_xdp"", ""dpdk""]",1
+"[""af_xdp"", ""linux""]",1
+"[""af_xdp"", ""opendataplane""]",1
+"[""af_xdp"", ""pf_ring zc""]",1
+"[""af_xdp"", ""snabb""]",1
+"[""af_xdp"", ""vpp""]",1
+"[""af_xdp"", ""обработка трафика""]",1
+"[""af_xdp"", ""сетевые технологии""]",1
+"[""agile project management"", ""c++""]",1
+"[""agile project management"", ""code review""]",1
+"[""agile project management"", ""docker""]",1
+"[""agile project management"", ""gitlab ci""]",1
+"[""agile project management"", ""gstreamer""]",1
+"[""agile project management"", ""linux""]",1
+"[""agile project management"", ""qt/qml""]",1
+"[""agile project management"", ""stl""]",1
+"[""algorithms"", ""c/c++""]",1
+"[""algorithms"", ""data structures""]",1
+"[""algorithms"", ""linux""]",1
+"[""algorithms"", ""multithreading""]",1
+"[""android ndk"", ""c++""]",1
+"[""android ndk"", ""javascript""]",1
+"[""ansi c++"", ""api""]",1
+"[""ansi c++"", ""bash""]",1
+"[""ansi c++"", ""borland c++""]",1
+"[""ansi c++"", ""c++""]",1
+"[""ansi c++"", ""c/c++""]",1
+"[""ansi c++"", ""drivers""]",1
+"[""ansi c++"", ""embedded linux""]",1
+"[""ansi c++"", ""git""]",1
+"[""ansi c++"", ""gnu c++""]",1
+"[""ansi c++"", ""intel c++""]",1
+"[""ansi c++"", ""linux""]",1
+"[""ansi c++"", ""microsoft visual studio""]",1
+"[""ansi c++"", ""ms visual c++""]",1
+"[""ansi c++"", ""ms visual studio""]",1
+"[""ansi c++"", ""preempt_rt""]",1
+"[""ansi c++"", ""real-time""]",1
+"[""ansi c++"", ""shell""]",1
+"[""ansi c++"", ""shell scripting""]",1
+"[""ansi c++"", ""unix""]",1
+"[""ansi c++"", ""unix shell scripts""]",1
+"[""ansi c++"", ""английский язык""]",1
+"[""ansi c++"", ""ооп""]",1
+"[""ansi c++"", ""с""]",1
+"[""ansi c++"", ""системное мышление""]",1
+"[""api"", ""bash""]",1
+"[""api"", ""borland c++""]",1
+"[""api"", ""c++""]",1
+"[""api"", ""c/c++""]",1
+"[""api"", ""drivers""]",1
+"[""api"", ""embedded linux""]",1
+"[""api"", ""git""]",1
+"[""api"", ""gnu c++""]",1
+"[""api"", ""intel c++""]",1
+"[""api"", ""linux""]",1
+"[""api"", ""microsoft visual studio""]",1
+"[""api"", ""ms visual c++""]",1
+"[""api"", ""ms visual studio""]",1
+"[""api"", ""preempt_rt""]",1
+"[""api"", ""real-time""]",1
+"[""api"", ""shell""]",1
+"[""api"", ""shell scripting""]",1
+"[""api"", ""unix""]",1
+"[""api"", ""unix shell scripts""]",1
+"[""api"", ""английский язык""]",1
+"[""api"", ""ооп""]",1
+"[""api"", ""с""]",1
+"[""api"", ""системное мышление""]",1
+"[""arm"", ""axi""]",1
+"[""arm"", ""ble""]",1
+"[""arm"", ""c""]",1
+"[""arm"", ""ddc/duc""]",1
+"[""arm"", ""ddr4""]",1
+"[""arm"", ""embedded""]",1
+"[""arm"", ""git.""]",1
+"[""arm"", ""iot""]",1
+"[""arm"", ""jesd204b""]",1
+"[""arm"", ""matlab""]",1
+"[""arm"", ""microblaze""]",1
+"[""arm"", ""qml""]",1
+"[""arm"", ""qt""]",1
+"[""arm"", ""risc""]",1
+"[""arm"", ""simulink""]",1
+"[""arm"", ""stm""]",1
+"[""arm"", ""tcp/ip""]",1
+"[""arm"", ""udp""]",1
+"[""arm"", ""vitis, vivado""]",1
+"[""arm"", ""английский язык (чтение технической литературы)""]",1
+"[""arm"", ""аудио""]",1
+"[""arm"", ""видео""]",1
+"[""arm"", ""медицинская техника""]",1
+"[""arm"", ""ооп""]",1
+"[""arm"", ""разработка встроенного по""]",1
+"[""arm"", ""цос""]",1
+"[""asn.1"", ""c++""]",1
+"[""asn.1"", ""git""]",1
+"[""asn.1"", ""linux""]",1
+"[""asn.1"", ""redmine""]",1
+"[""assembler"", ""c/c++""]",1
+"[""assembler"", ""git""]",1
+"[""assembler"", ""gnu/linux""]",1
+"[""assembler"", ""linux""]",1
+"[""assembler"", ""qt""]",1
+"[""assembler"", ""windows os""]",1
+"[""assembler"", ""x86""]",1
+"[""assembler"", ""разработка по""]",1
+"[""astra linux"", ""c++""]",1
+"[""astra linux"", ""ci/cd (gitlab).""]",1
+"[""astra linux"", ""cmake""]",1
+"[""astra linux"", ""git""]",1
+"[""astra linux"", ""gitlab""]",1
+"[""astra linux"", ""postgresql""]",1
+"[""astra linux"", ""python""]",1
+"[""astra linux"", ""qt""]",1
+"[""astra linux"", ""redmine""]",1
+"[""astra linux"", ""rest api""]",1
+"[""atlassian jira"", ""bash""]",1
+"[""atlassian jira"", ""c++""]",1
+"[""atlassian jira"", ""postgresql""]",1
+"[""atlassian jira"", ""python""]",1
+"[""atlassian jira"", ""qml""]",1
+"[""atlassian jira"", ""scrum""]",1
+"[""atlassian jira"", ""sip""]",1
+"[""atlassian jira"", ""stl""]",1
+"[""atlassian jira"", ""tcp/ip""]",1
+"[""atlassian jira"", ""voip""]",1
+"[""atlassian jira"", ""мотивация персонала""]",1
+"[""atlassian jira"", ""ооп""]",1
+"[""atlassian jira"", ""разработка технической документации""]",1
+"[""atlassian jira"", ""с++""]",1
+"[""atlassian jira"", ""управление командой""]",1
+"[""atlassian jira"", ""управление разработкой""]",1
+"[""autocad"", ""c++""]",1
+"[""autocad"", ""cad""]",1
+"[""autocad"", ""nanocad""]",1
+"[""autocad"", ""qt""]",1
+"[""autocad"", ""сапр""]",1
+"[""axi"", ""c/c++""]",1
+"[""axi"", ""ddc/duc""]",1
+"[""axi"", ""ddr4""]",1
+"[""axi"", ""git""]",1
+"[""axi"", ""git.""]",1
+"[""axi"", ""jesd204b""]",1
+"[""axi"", ""matlab""]",1
+"[""axi"", ""microblaze""]",1
+"[""axi"", ""simulink""]",1
+"[""axi"", ""vitis, vivado""]",1
+"[""axi"", ""цос""]",1
+"[""bash"", ""bison""]",1
+"[""bash"", ""borland c++""]",1
+"[""bash"", ""bsd""]",1
+"[""bash"", ""c""]",1
+"[""bash"", ""drivers""]",1
+"[""bash"", ""embedded linux""]",1
+"[""bash"", ""flex""]",1
+"[""bash"", ""gnu c++""]",1
+"[""bash"", ""intel c++""]",1
+"[""bash"", ""microsoft visual studio""]",1
+"[""bash"", ""ms sql""]",1
+"[""bash"", ""ms visual c++""]",1
+"[""bash"", ""ms visual studio""]",1
+"[""bash"", ""mysql""]",1
+"[""bash"", ""oracle""]",1
+"[""bash"", ""postgresql""]",1
+"[""bash"", ""preempt_rt""]",1
+"[""bash"", ""qml""]",1
+"[""bash"", ""qt""]",1
+"[""bash"", ""real-time""]",1
+"[""bash"", ""shell scripting""]",1
+"[""bash"", ""sql""]",1
+"[""bash"", ""stl""]",1
+"[""bash"", ""unit testing""]",1
+"[""bash"", ""unix shell scripts""]",1
+"[""bash"", ""английский язык""]",1
+"[""bash"", ""базы данных""]",1
+"[""bash"", ""мотивация персонала""]",1
+"[""bash"", ""разработка технической документации""]",1
+"[""bash"", ""серверное программирование""]",1
+"[""bash"", ""системное мышление""]",1
+"[""bash"", ""схд""]",1
+"[""bash"", ""управление командой""]",1
+"[""bash"", ""управление разработкой""]",1
+"[""bison"", ""c/c++""]",1
+"[""bison"", ""flex""]",1
+"[""bison"", ""linux""]",1
+"[""bison"", ""ms sql""]",1
+"[""bison"", ""mysql""]",1
+"[""bison"", ""oracle""]",1
+"[""bison"", ""postgresql""]",1
+"[""bison"", ""shell""]",1
+"[""bison"", ""sql""]",1
+"[""bison"", ""unit testing""]",1
+"[""bison"", ""базы данных""]",1
+"[""bitbake"", ""bluetooth""]",1
+"[""bitbake"", ""c++""]",1
+"[""bitbake"", ""embedded""]",1
+"[""bitbake"", ""emv""]",1
+"[""bitbake"", ""exe""]",1
+"[""bitbake"", ""git""]",1
+"[""bitbake"", ""gitlab""]",1
+"[""bitbake"", ""iot""]",1
+"[""bitbake"", ""linux""]",1
+"[""bitbake"", ""mdb""]",1
+"[""bitbake"", ""nfc""]",1
+"[""bitbake"", ""openembedded""]",1
+"[""bitbake"", ""pci dss""]",1
+"[""bitbake"", ""pulse""]",1
+"[""bitbake"", ""qml""]",1
+"[""bitbake"", ""qt""]",1
+"[""bitbake"", ""scrum""]",1
+"[""bitbake"", ""wifi""]",1
+"[""bitbake"", ""yocto""]",1
+"[""ble"", ""c/c++""]",1
+"[""ble"", ""iot""]",1
+"[""ble"", ""stm""]",1
+"[""ble"", ""аудио""]",1
+"[""ble"", ""видео""]",1
+"[""ble"", ""медицинская техника""]",1
+"[""bluetooth"", ""c++""]",1
+"[""bluetooth"", ""embedded""]",1
+"[""bluetooth"", ""emv""]",1
+"[""bluetooth"", ""exe""]",1
+"[""bluetooth"", ""git""]",1
+"[""bluetooth"", ""gitlab""]",1
+"[""bluetooth"", ""iot""]",1
+"[""bluetooth"", ""linux""]",1
+"[""bluetooth"", ""mdb""]",1
+"[""bluetooth"", ""nfc""]",1
+"[""bluetooth"", ""openembedded""]",1
+"[""bluetooth"", ""pci dss""]",1
+"[""bluetooth"", ""pulse""]",1
+"[""bluetooth"", ""qml""]",1
+"[""bluetooth"", ""qt""]",1
+"[""bluetooth"", ""scrum""]",1
+"[""bluetooth"", ""wifi""]",1
+"[""bluetooth"", ""yocto""]",1
+"[""boost"", ""c++ 17""]",1
+"[""boost"", ""c++11""]",1
+"[""boost"", ""c++14""]",1
+"[""boost"", ""c++17""]",1
+"[""boost"", ""c/c++""]",1
+"[""boost"", ""cad""]",1
+"[""boost"", ""eda""]",1
+"[""boost"", ""iron python""]",1
+"[""boost"", ""java""]",1
+"[""boost"", ""linux""]",1
+"[""boost"", ""openaccess""]",1
+"[""boost"", ""opengl""]",1
+"[""boost"", ""openstreetmap""]",1
+"[""boost"", ""oracle""]",1
+"[""boost"", ""postgresql""]",1
+"[""boost"", ""protobuf""]",1
+"[""boost"", ""python""]",1
+"[""boost"", ""qt""]",1
+"[""boost"", ""vulkan""]",1
+"[""boost"", ""winapi""]",1
+"[""boost"", ""windbg""]",1
+"[""boost"", ""windows""]",1
+"[""boost"", ""английский язык""]",1
+"[""boost"", ""ооп""]",1
+"[""boost"", ""разработка по""]",1
+"[""borland c++"", ""c++""]",1
+"[""borland c++"", ""c/c++""]",1
+"[""borland c++"", ""drivers""]",1
+"[""borland c++"", ""embedded linux""]",1
+"[""borland c++"", ""git""]",1
+"[""borland c++"", ""gnu c++""]",1
+"[""borland c++"", ""intel c++""]",1
+"[""borland c++"", ""linux""]",1
+"[""borland c++"", ""microsoft visual studio""]",1
+"[""borland c++"", ""ms visual c++""]",1
+"[""borland c++"", ""ms visual studio""]",1
+"[""borland c++"", ""preempt_rt""]",1
+"[""borland c++"", ""real-time""]",1
+"[""borland c++"", ""shell""]",1
+"[""borland c++"", ""shell scripting""]",1
+"[""borland c++"", ""unix""]",1
+"[""borland c++"", ""unix shell scripts""]",1
+"[""borland c++"", ""английский язык""]",1
+"[""borland c++"", ""ооп""]",1
+"[""borland c++"", ""с""]",1
+"[""borland c++"", ""системное мышление""]",1
+"[""broadcom"", ""c""]",1
+"[""broadcom"", ""c/c++""]",1
+"[""broadcom"", ""git""]",1
+"[""broadcom"", ""intel""]",1
+"[""broadcom"", ""jira""]",1
+"[""broadcom"", ""linux""]",1
+"[""broadcom"", ""marvel""]",1
+"[""broadcom"", ""osi""]",1
+"[""bsd"", ""c/c++""]",1
+"[""bsd"", ""linux""]",1
+"[""bsd"", ""python""]",1
+"[""bsd"", ""unix""]",1
+"[""bsd"", ""серверное программирование""]",1
+"[""bsd"", ""схд""]",1
+"[""c"", ""c/c++""]",1
+"[""c"", ""dpdk""]",1
+"[""c"", ""go""]",1
+"[""c"", ""golang""]",1
+"[""c"", ""intel""]",1
+"[""c"", ""jira""]",1
+"[""c"", ""marvel""]",1
+"[""c"", ""opendataplane""]",1
+"[""c"", ""osi""]",1
+"[""c"", ""pf_ring zc""]",1
+"[""c"", ""postgresql""]",1
+"[""c"", ""snabb""]",1
+"[""c"", ""udp""]",1
+"[""c"", ""vpp""]",1
+"[""c"", ""windows""]",1
+"[""c"", ""обработка трафика""]",1
+"[""c"", ""сетевые технологии""]",1
+"[""c#"", ""cad""]",1
+"[""c#"", ""git""]",1
+"[""c#"", ""ms sql server""]",1
+"[""c#"", ""ms visual studio""]",1
+"[""c#"", ""mysql""]",1
+"[""c#"", ""postgresql""]",1
+"[""c#"", ""sql""]",1
+"[""c#"", ""svn""]",1
+"[""c#"", ""windows api""]",1
+"[""c#"", ""windows forms""]",1
+"[""c#"", ""сапр""]",1
+"[""c++"", ""c++ 17""]",1
+"[""c++"", ""c++14""]",1
+"[""c++"", ""ci/cd""]",1
+"[""c++"", ""ci/cd (gitlab).""]",1
+"[""c++"", ""cim""]",1
+"[""c++"", ""clickhouse""]",1
+"[""c++"", ""computer vision""]",1
+"[""c++"", ""delphi""]",1
+"[""c++"", ""dpdk""]",1
+"[""c++"", ""drivers""]",1
+"[""c++"", ""eda""]",1
+"[""c++"", ""embedded linux""]",1
+"[""c++"", ""emv""]",1
+"[""c++"", ""exe""]",1
+"[""c++"", ""ffmpeg""]",1
+"[""c++"", ""gitlab ci""]",1
+"[""c++"", ""gnu c++""]",1
+"[""c++"", ""golang""]",1
+"[""c++"", ""gstreamer""]",1
+"[""c++"", ""hightload""]",1
+"[""c++"", ""http""]",1
+"[""c++"", ""images processing""]",1
+"[""c++"", ""imgui""]",1
+"[""c++"", ""intel c++""]",1
+"[""c++"", ""ios""]",1
+"[""c++"", ""iot""]",1
+"[""c++"", ""iron python""]",1
+"[""c++"", ""javascript""]",1
+"[""c++"", ""kotlin""]",1
+"[""c++"", ""mac os""]",1
+"[""c++"", ""mac os x server""]",1
+"[""c++"", ""mac software""]",1
+"[""c++"", ""macos""]",1
+"[""c++"", ""macosx""]",1
+"[""c++"", ""mdb""]",1
+"[""c++"", ""ml""]",1
+"[""c++"", ""momentics""]",1
+"[""c++"", ""mongodb""]",1
+"[""c++"", ""ms sql""]",1
+"[""c++"", ""ms sql server""]",1
+"[""c++"", ""nanocad""]",1
+"[""c++"", ""nfc""]",1
+"[""c++"", ""nintendo""]",1
+"[""c++"", ""oda""]",1
+"[""c++"", ""openaccess""]",1
+"[""c++"", ""openembedded""]",1
+"[""c++"", ""openssl""]",1
+"[""c++"", ""openstreetmap""]",1
+"[""c++"", ""orm""]",1
+"[""c++"", ""pci dss""]",1
+"[""c++"", ""playstation""]",1
+"[""c++"", ""posix""]",1
+"[""c++"", ""preempt_rt""]",1
+"[""c++"", ""protobuf""]",1
+"[""c++"", ""pulse""]",1
+"[""c++"", ""qt 5.15""]",1
+"[""c++"", ""qt creator""]",1
+"[""c++"", ""qt/qml""]",1
+"[""c++"", ""real-time""]",1
+"[""c++"", ""rest api""]",1
+"[""c++"", ""ros""]",1
+"[""c++"", ""rust""]",1
+"[""c++"", ""scrum""]",1
+"[""c++"", ""server side apps""]",1
+"[""c++"", ""shell""]",1
+"[""c++"", ""shell scripting""]",1
+"[""c++"", ""std""]",1
+"[""c++"", ""swift""]",1
+"[""c++"", ""tcp/udp""]",1
+"[""c++"", ""udp""]",1
+"[""c++"", ""udp/tcp""]",1
+"[""c++"", ""ue4""]",1
+"[""c++"", ""ui-frameworks""]",1
+"[""c++"", ""unix shell scripts""]",1
+"[""c++"", ""unreal engine""]",1
+"[""c++"", ""unreal engine 5""]",1
+"[""c++"", ""visual studio code""]",1
+"[""c++"", ""vpn""]",1
+"[""c++"", ""vulkan""]",1
+"[""c++"", ""websocket,""]",1
+"[""c++"", ""wifi""]",1
+"[""c++"", ""win32 api""]",1
+"[""c++"", ""windbg""]",1
+"[""c++"", ""windows 7""]",1
+"[""c++"", ""windows api""]",1
+"[""c++"", ""windows forms""]",1
+"[""c++"", ""windows kernel""]",1
+"[""c++"", ""wxwidgets""]",1
+"[""c++"", ""xbox""]",1
+"[""c++"", ""yocto""]",1
+"[""c++"", ""аналитическая геометрия""]",1
+"[""c++"", ""аналитическое мышление""]",1
+"[""c++"", ""асинхронное программирование""]",1
+"[""c++"", ""базы данных""]",1
+"[""c++"", ""вычислительная геометрия""]",1
+"[""c++"", ""вычислительная математика""]",1
+"[""c++"", ""геометрическое моделирование""]",1
+"[""c++"", ""желание работать и развиваться""]",1
+"[""c++"", ""игровое по""]",1
+"[""c++"", ""информационные технологии""]",1
+"[""c++"", ""кроссплатформенная разработка""]",1
+"[""c++"", ""математический анализ""]",1
+"[""c++"", ""математическое программирование""]",1
+"[""c++"", ""многопоточное программирование""]",1
+"[""c++"", ""многопоточные приложения""]",1
+"[""c++"", ""мотивация персонала""]",1
+"[""c++"", ""обучение и развитие""]",1
+"[""c++"", ""оптимизация алгоритмов""]",1
+"[""c++"", ""параллельные вычисления""]",1
+"[""c++"", ""прикладное по""]",1
+"[""c++"", ""программирование 3d-графики""]",1
+"[""c++"", ""разработка драйверов""]",1
+"[""c++"", ""разработка технической документации""]",1
+"[""c++"", ""реверс-инжиниринг""]",1
+"[""c++"", ""робототехника""]",1
+"[""c++"", ""с""]",1
+"[""c++"", ""с++ 17""]",1
+"[""c++"", ""с++14""]",1
+"[""c++"", ""с++17""]",1
+"[""c++"", ""с/с++""]",1
+"[""c++"", ""системное мышление""]",1
+"[""c++"", ""системное программирование""]",1
+"[""c++"", ""системный программист""]",1
+"[""c++"", ""управление командой""]",1
+"[""c++"", ""управление разработкой""]",1
+"[""c++ 17"", ""cad""]",1
+"[""c++ 17"", ""eda""]",1
+"[""c++ 17"", ""iron python""]",1
+"[""c++ 17"", ""openaccess""]",1
+"[""c++ 17"", ""qt""]",1
+"[""c++ 17"", ""stl""]",1
+"[""c++ developer"", ""game development""]",1
+"[""c++ developer"", ""game programming""]",1
+"[""c++ developer"", ""gamedev""]",1
+"[""c++ developer"", ""с++""]",1
+"[""c++11"", ""c++14""]",1
+"[""c++11"", ""c++17""]",1
+"[""c++11"", ""c/c++""]",1
+"[""c++11"", ""git""]",1
+"[""c++11"", ""hightload""]",1
+"[""c++11"", ""linux""]",1
+"[""c++11"", ""sql""]",1
+"[""c++11"", ""stl""]",1
+"[""c++11"", ""многопоточные приложения""]",1
+"[""c++11"", ""ооп""]",1
+"[""c++11"", ""разработка по""]",1
+"[""c++11"", ""с++14""]",1
+"[""c++14"", ""c++17""]",1
+"[""c++14"", ""c/c++""]",1
+"[""c++14"", ""git""]",1
+"[""c++14"", ""stl""]",1
+"[""c++14"", ""ооп""]",1
+"[""c++14"", ""разработка по""]",1
+"[""c++17"", ""c/c++""]",1
+"[""c++17"", ""linux""]",1
+"[""c++17"", ""stl""]",1
+"[""c++17"", ""ооп""]",1
+"[""c++17"", ""разработка по""]",1
+"[""c/c++"", ""data structures""]",1
+"[""c/c++"", ""ddc/duc""]",1
+"[""c/c++"", ""ddr4""]",1
+"[""c/c++"", ""drivers""]",1
+"[""c/c++"", ""dsp""]",1
+"[""c/c++"", ""embedded linux""]",1
+"[""c/c++"", ""ethernet (tcp/ip, upd)""]",1
+"[""c/c++"", ""flex""]",1
+"[""c/c++"", ""gcc""]",1
+"[""c/c++"", ""git.""]",1
+"[""c/c++"", ""gitlab""]",1
+"[""c/c++"", ""gnu c++""]",1
+"[""c/c++"", ""gnu/linux""]",1
+"[""c/c++"", ""go""]",1
+"[""c/c++"", ""i2c""]",1
+"[""c/c++"", ""icmp""]",1
+"[""c/c++"", ""intel""]",1
+"[""c/c++"", ""intel c++""]",1
+"[""c/c++"", ""iot""]",1
+"[""c/c++"", ""java""]",1
+"[""c/c++"", ""jesd204b""]",1
+"[""c/c++"", ""labview""]",1
+"[""c/c++"", ""mac os""]",1
+"[""c/c++"", ""mac os x server""]",1
+"[""c/c++"", ""mac software""]",1
+"[""c/c++"", ""macos""]",1
+"[""c/c++"", ""macosx""]",1
+"[""c/c++"", ""make/cmake""]",1
+"[""c/c++"", ""mariadb""]",1
+"[""c/c++"", ""marvel""]",1
+"[""c/c++"", ""mfc""]",1
+"[""c/c++"", ""microblaze""]",1
+"[""c/c++"", ""modbus""]",1
+"[""c/c++"", ""multithread programming""]",1
+"[""c/c++"", ""multithreading""]",1
+"[""c/c++"", ""nginx""]",1
+"[""c/c++"", ""opengl""]",1
+"[""c/c++"", ""oracle""]",1
+"[""c/c++"", ""preempt_rt""]",1
+"[""c/c++"", ""qml""]",1
+"[""c/c++"", ""qt5+""]",1
+"[""c/c++"", ""real-time""]",1
+"[""c/c++"", ""risc""]",1
+"[""c/c++"", ""rs-232/rs-485/rs-422""]",1
+"[""c/c++"", ""rtos""]",1
+"[""c/c++"", ""shell scripting""]",1
+"[""c/c++"", ""sip""]",1
+"[""c/c++"", ""spi""]",1
+"[""c/c++"", ""sqlite""]",1
+"[""c/c++"", ""stm""]",1
+"[""c/c++"", ""svn""]",1
+"[""c/c++"", ""tasks tracking sytems""]",1
+"[""c/c++"", ""uart""]",1
+"[""c/c++"", ""udp/tcp""]",1
+"[""c/c++"", ""unit testing""]",1
+"[""c/c++"", ""unix shell scripts""]",1
+"[""c/c++"", ""vitis, vivado""]",1
+"[""c/c++"", ""voip""]",1
+"[""c/c++"", ""vpn""]",1
+"[""c/c++"", ""websocket,""]",1
+"[""c/c++"", ""win32 api""]",1
+"[""c/c++"", ""winapi""]",1
+"[""c/c++"", ""windows""]",1
+"[""c/c++"", ""x86""]",1
+"[""c/c++"", ""аккредитованная it - компания""]",1
+"[""c/c++"", ""алгоритмы""]",1
+"[""c/c++"", ""алгоритмы и структуры данных""]",1
+"[""c/c++"", ""аналитические способности""]",1
+"[""c/c++"", ""английский язык (чтение технической литературы)""]",1
+"[""c/c++"", ""асинхронное программирование""]",1
+"[""c/c++"", ""аудио""]",1
+"[""c/c++"", ""базы данных""]",1
+"[""c/c++"", ""видео""]",1
+"[""c/c++"", ""информационные технологии""]",1
+"[""c/c++"", ""медицинская техника""]",1
+"[""c/c++"", ""многопоточное программирование""]",1
+"[""c/c++"", ""мотивация персонала""]",1
+"[""c/c++"", ""осрв""]",1
+"[""c/c++"", ""разработка встроенного по""]",1
+"[""c/c++"", ""разработка технической документации""]",1
+"[""c/c++"", ""робототехника""]",1
+"[""c/c++"", ""с""]",1
+"[""c/c++"", ""с#""]",1
+"[""c/c++"", ""с++""]",1
+"[""c/c++"", ""с/с++""]",1
+"[""c/c++"", ""серверное программирование""]",1
+"[""c/c++"", ""системное мышление""]",1
+"[""c/c++"", ""схд""]",1
+"[""c/c++"", ""схемотехника электронного оборудования""]",1
+"[""c/c++"", ""управление командой""]",1
+"[""c/c++"", ""управление разработкой""]",1
+"[""cad"", ""cmake""]",1
+"[""cad"", ""eda""]",1
+"[""cad"", ""git""]",1
+"[""cad"", ""iron python""]",1
+"[""cad"", ""ms sql server""]",1
+"[""cad"", ""nanocad""]",1
+"[""cad"", ""oda""]",1
+"[""cad"", ""openaccess""]",1
+"[""cad"", ""postgresql""]",1
+"[""cad"", ""sql""]",1
+"[""cad"", ""svn""]",1
+"[""cad"", ""windows api""]",1
+"[""cad"", ""геометрическое моделирование""]",1
+"[""cad"", ""математическое моделирование""]",1
+"[""cad"", ""математическое программирование""]",1
+"[""ci/cd"", ""cim""]",1
+"[""ci/cd"", ""git""]",1
+"[""ci/cd"", ""gitlab""]",1
+"[""ci/cd"", ""qt""]",1
+"[""ci/cd"", ""qt 5.15""]",1
+"[""ci/cd"", ""stl""]",1
+"[""ci/cd (gitlab)."", ""cmake""]",1
+"[""ci/cd (gitlab)."", ""git""]",1
+"[""ci/cd (gitlab)."", ""gitlab""]",1
+"[""ci/cd (gitlab)."", ""postgresql""]",1
+"[""ci/cd (gitlab)."", ""python""]",1
+"[""ci/cd (gitlab)."", ""qt""]",1
+"[""ci/cd (gitlab)."", ""redmine""]",1
+"[""ci/cd (gitlab)."", ""rest api""]",1
+"[""cim"", ""git""]",1
+"[""cim"", ""gitlab""]",1
+"[""cim"", ""qt""]",1
+"[""cim"", ""qt 5.15""]",1
+"[""cim"", ""stl""]",1
+"[""clickhouse"", ""http""]",1
+"[""clickhouse"", ""postgresql""]",1
+"[""clickhouse"", ""работа в команде""]",1
+"[""cmake"", ""git""]",1
+"[""cmake"", ""gitlab""]",1
+"[""cmake"", ""java""]",1
+"[""cmake"", ""kotlin""]",1
+"[""cmake"", ""oda""]",1
+"[""cmake"", ""openstreetmap""]",1
+"[""cmake"", ""postgresql""]",1
+"[""cmake"", ""protobuf""]",1
+"[""cmake"", ""python""]",1
+"[""cmake"", ""qt""]",1
+"[""cmake"", ""redmine""]",1
+"[""cmake"", ""rest api""]",1
+"[""cmake"", ""swift""]",1
+"[""cmake"", ""vulkan""]",1
+"[""cmake"", ""английский язык""]",1
+"[""cmake"", ""кроссплатформенная разработка""]",1
+"[""code review"", ""docker""]",1
+"[""code review"", ""git""]",1
+"[""code review"", ""gitlab ci""]",1
+"[""code review"", ""gstreamer""]",1
+"[""code review"", ""linux""]",1
+"[""code review"", ""qt""]",1
+"[""code review"", ""qt/qml""]",1
+"[""code review"", ""stl""]",1
+"[""code review"", ""svn""]",1
+"[""code review"", ""ооп""]",1
+"[""code review"", ""прикладное по""]",1
+"[""code review"", ""разработка по""]",1
+"[""computer vision"", ""git""]",1
+"[""computer vision"", ""images processing""]",1
+"[""computer vision"", ""opengl""]",1
+"[""computer vision"", ""qt""]",1
+"[""computer vision"", ""stl""]",1
+"[""computer vision"", ""алгоритмы""]",1
+"[""computer vision"", ""аналитическая геометрия""]",1
+"[""computer vision"", ""аналитическое мышление""]",1
+"[""computer vision"", ""желание работать и развиваться""]",1
+"[""computer vision"", ""линейная алгебра""]",1
+"[""computer vision"", ""ооп""]",1
+"[""computer vision"", ""программирование 3d-графики""]",1
+"[""css"", ""django framework""]",1
+"[""css"", ""git""]",1
+"[""css"", ""python""]",1
+"[""css"", ""ооп""]",1
+"[""data structures"", ""linux""]",1
+"[""data structures"", ""multithreading""]",1
+"[""ddc/duc"", ""ddr4""]",1
+"[""ddc/duc"", ""git""]",1
+"[""ddc/duc"", ""git.""]",1
+"[""ddc/duc"", ""jesd204b""]",1
+"[""ddc/duc"", ""matlab""]",1
+"[""ddc/duc"", ""microblaze""]",1
+"[""ddc/duc"", ""simulink""]",1
+"[""ddc/duc"", ""vitis, vivado""]",1
+"[""ddc/duc"", ""цос""]",1
+"[""ddr4"", ""git""]",1
+"[""ddr4"", ""git.""]",1
+"[""ddr4"", ""jesd204b""]",1
+"[""ddr4"", ""matlab""]",1
+"[""ddr4"", ""microblaze""]",1
+"[""ddr4"", ""simulink""]",1
+"[""ddr4"", ""vitis, vivado""]",1
+"[""ddr4"", ""цос""]",1
+"[""delphi"", ""ms sql""]",1
+"[""delphi"", ""qt5+""]",1
+"[""delphi"", ""server side apps""]",1
+"[""django framework"", ""git""]",1
+"[""django framework"", ""python""]",1
+"[""django framework"", ""ооп""]",1
+"[""docker"", ""gitlab ci""]",1
+"[""docker"", ""gstreamer""]",1
+"[""docker"", ""mongodb""]",1
+"[""docker"", ""python""]",1
+"[""docker"", ""qt/qml""]",1
+"[""docker"", ""std""]",1
+"[""docker"", ""stl""]",1
+"[""docker"", ""базы данных""]",1
+"[""dpdk"", ""opendataplane""]",1
+"[""dpdk"", ""osi""]",1
+"[""dpdk"", ""pf_ring zc""]",1
+"[""dpdk"", ""snabb""]",1
+"[""dpdk"", ""tcp/ip""]",1
+"[""dpdk"", ""vpp""]",1
+"[""dpdk"", ""обработка трафика""]",1
+"[""dpdk"", ""сетевые технологии""]",1
+"[""drivers"", ""embedded linux""]",1
+"[""drivers"", ""git""]",1
+"[""drivers"", ""gnu c++""]",1
+"[""drivers"", ""intel c++""]",1
+"[""drivers"", ""linux""]",1
+"[""drivers"", ""microsoft visual studio""]",1
+"[""drivers"", ""ms visual c++""]",1
+"[""drivers"", ""ms visual studio""]",1
+"[""drivers"", ""preempt_rt""]",1
+"[""drivers"", ""real-time""]",1
+"[""drivers"", ""shell""]",1
+"[""drivers"", ""shell scripting""]",1
+"[""drivers"", ""unix""]",1
+"[""drivers"", ""unix shell scripts""]",1
+"[""drivers"", ""английский язык""]",1
+"[""drivers"", ""ооп""]",1
+"[""drivers"", ""с""]",1
+"[""drivers"", ""системное мышление""]",1
+"[""dsp"", ""jira""]",1
+"[""dsp"", ""linux""]",1
+"[""dsp"", ""tcp/ip""]",1
+"[""dsp"", ""udp""]",1
+"[""eclipse"", ""git""]",1
+"[""eclipse"", ""умение принимать решения""]",1
+"[""eda"", ""iron python""]",1
+"[""eda"", ""openaccess""]",1
+"[""eda"", ""qt""]",1
+"[""eda"", ""stl""]",1
+"[""embedded"", ""emv""]",1
+"[""embedded"", ""exe""]",1
+"[""embedded"", ""gitlab""]",1
+"[""embedded"", ""iot""]",1
+"[""embedded"", ""mdb""]",1
+"[""embedded"", ""nfc""]",1
+"[""embedded"", ""openembedded""]",1
+"[""embedded"", ""pci dss""]",1
+"[""embedded"", ""pulse""]",1
+"[""embedded"", ""qml""]",1
+"[""embedded"", ""qt""]",1
+"[""embedded"", ""rtos""]",1
+"[""embedded"", ""scrum""]",1
+"[""embedded"", ""wifi""]",1
+"[""embedded"", ""yocto""]",1
+"[""embedded"", ""ооп""]",1
+"[""embedded"", ""осрв""]",1
+"[""embedded linux"", ""git""]",1
+"[""embedded linux"", ""gnu c++""]",1
+"[""embedded linux"", ""intel c++""]",1
+"[""embedded linux"", ""linux""]",1
+"[""embedded linux"", ""microsoft visual studio""]",1
+"[""embedded linux"", ""ms visual c++""]",1
+"[""embedded linux"", ""ms visual studio""]",1
+"[""embedded linux"", ""preempt_rt""]",1
+"[""embedded linux"", ""real-time""]",1
+"[""embedded linux"", ""shell""]",1
+"[""embedded linux"", ""shell scripting""]",1
+"[""embedded linux"", ""unix""]",1
+"[""embedded linux"", ""unix shell scripts""]",1
+"[""embedded linux"", ""английский язык""]",1
+"[""embedded linux"", ""ооп""]",1
+"[""embedded linux"", ""с""]",1
+"[""embedded linux"", ""системное мышление""]",1
+"[""emv"", ""exe""]",1
+"[""emv"", ""git""]",1
+"[""emv"", ""gitlab""]",1
+"[""emv"", ""iot""]",1
+"[""emv"", ""linux""]",1
+"[""emv"", ""mdb""]",1
+"[""emv"", ""nfc""]",1
+"[""emv"", ""openembedded""]",1
+"[""emv"", ""pci dss""]",1
+"[""emv"", ""pulse""]",1
+"[""emv"", ""qml""]",1
+"[""emv"", ""qt""]",1
+"[""emv"", ""scrum""]",1
+"[""emv"", ""wifi""]",1
+"[""emv"", ""yocto""]",1
+"[""ethernet (tcp/ip, upd)"", ""git""]",1
+"[""ethernet (tcp/ip, upd)"", ""gitlab""]",1
+"[""ethernet (tcp/ip, upd)"", ""i2c""]",1
+"[""ethernet (tcp/ip, upd)"", ""labview""]",1
+"[""ethernet (tcp/ip, upd)"", ""matlab""]",1
+"[""ethernet (tcp/ip, upd)"", ""qt creator""]",1
+"[""ethernet (tcp/ip, upd)"", ""rs-232/rs-485/rs-422""]",1
+"[""ethernet (tcp/ip, upd)"", ""simulink""]",1
+"[""ethernet (tcp/ip, upd)"", ""spi""]",1
+"[""ethernet (tcp/ip, upd)"", ""uart""]",1
+"[""ethernet (tcp/ip, upd)"", ""цос""]",1
+"[""exe"", ""git""]",1
+"[""exe"", ""gitlab""]",1
+"[""exe"", ""iot""]",1
+"[""exe"", ""linux""]",1
+"[""exe"", ""mdb""]",1
+"[""exe"", ""nfc""]",1
+"[""exe"", ""openembedded""]",1
+"[""exe"", ""pci dss""]",1
+"[""exe"", ""pulse""]",1
+"[""exe"", ""qml""]",1
+"[""exe"", ""qt""]",1
+"[""exe"", ""scrum""]",1
+"[""exe"", ""wifi""]",1
+"[""exe"", ""yocto""]",1
+"[""ffmpeg"", ""qt""]",1
+"[""flex"", ""linux""]",1
+"[""flex"", ""ms sql""]",1
+"[""flex"", ""mysql""]",1
+"[""flex"", ""oracle""]",1
+"[""flex"", ""postgresql""]",1
+"[""flex"", ""shell""]",1
+"[""flex"", ""sql""]",1
+"[""flex"", ""unit testing""]",1
+"[""flex"", ""базы данных""]",1
+"[""game development"", ""game programming""]",1
+"[""game development"", ""gamedev""]",1
+"[""game development"", ""с++""]",1
+"[""game programming"", ""с++""]",1
+"[""gamedev"", ""с++""]",1
+"[""gcc"", ""git""]",1
+"[""gcc"", ""linux""]",1
+"[""gcc"", ""английский язык""]",1
+"[""gcc"", ""разработка по""]",1
+"[""git"", ""git.""]",1
+"[""git"", ""gnu c++""]",1
+"[""git"", ""gnu/linux""]",1
+"[""git"", ""i2c""]",1
+"[""git"", ""icmp""]",1
+"[""git"", ""images processing""]",1
+"[""git"", ""intel""]",1
+"[""git"", ""intel c++""]",1
+"[""git"", ""iot""]",1
+"[""git"", ""java""]",1
+"[""git"", ""jesd204b""]",1
+"[""git"", ""jira""]",1
+"[""git"", ""labview""]",1
+"[""git"", ""make/cmake""]",1
+"[""git"", ""marvel""]",1
+"[""git"", ""mdb""]",1
+"[""git"", ""microblaze""]",1
+"[""git"", ""microsoft visual studio""]",1
+"[""git"", ""ms sql""]",1
+"[""git"", ""ms sql server""]",1
+"[""git"", ""ms visual c++""]",1
+"[""git"", ""nfc""]",1
+"[""git"", ""openembedded""]",1
+"[""git"", ""oracle""]",1
+"[""git"", ""osi""]",1
+"[""git"", ""pci dss""]",1
+"[""git"", ""posix""]",1
+"[""git"", ""preempt_rt""]",1
+"[""git"", ""pulse""]",1
+"[""git"", ""qt 5.15""]",1
+"[""git"", ""qt creator""]",1
+"[""git"", ""real-time""]",1
+"[""git"", ""rest api""]",1
+"[""git"", ""rs-232/rs-485/rs-422""]",1
+"[""git"", ""shell""]",1
+"[""git"", ""shell scripting""]",1
+"[""git"", ""sip""]",1
+"[""git"", ""spi""]",1
+"[""git"", ""tasks tracking sytems""]",1
+"[""git"", ""uart""]",1
+"[""git"", ""unix shell scripts""]",1
+"[""git"", ""vitis, vivado""]",1
+"[""git"", ""voip""]",1
+"[""git"", ""wifi""]",1
+"[""git"", ""win32 api""]",1
+"[""git"", ""winapi""]",1
+"[""git"", ""windows 7""]",1
+"[""git"", ""windows api""]",1
+"[""git"", ""windows kernel""]",1
+"[""git"", ""x86""]",1
+"[""git"", ""yocto""]",1
+"[""git"", ""аккредитованная it - компания""]",1
+"[""git"", ""алгоритмы""]",1
+"[""git"", ""аналитическая геометрия""]",1
+"[""git"", ""аналитическое мышление""]",1
+"[""git"", ""желание работать и развиваться""]",1
+"[""git"", ""линейная алгебра""]",1
+"[""git"", ""многопоточное программирование""]",1
+"[""git"", ""мотивация персонала""]",1
+"[""git"", ""прикладное по""]",1
+"[""git"", ""программирование 3d-графики""]",1
+"[""git"", ""разработка драйверов""]",1
+"[""git"", ""разработка технической документации""]",1
+"[""git"", ""робототехника""]",1
+"[""git"", ""с++""]",1
+"[""git"", ""с++17""]",1
+"[""git"", ""сапр""]",1
+"[""git"", ""системное мышление""]",1
+"[""git"", ""системное программирование""]",1
+"[""git"", ""умение принимать решения""]",1
+"[""git"", ""управление командой""]",1
+"[""git"", ""управление разработкой""]",1
+"[""git."", ""jesd204b""]",1
+"[""git."", ""matlab""]",1
+"[""git."", ""microblaze""]",1
+"[""git."", ""simulink""]",1
+"[""git."", ""vitis, vivado""]",1
+"[""git."", ""цос""]",1
+"[""gitlab"", ""i2c""]",1
+"[""gitlab"", ""iot""]",1
+"[""gitlab"", ""labview""]",1
+"[""gitlab"", ""linux""]",1
+"[""gitlab"", ""matlab""]",1
+"[""gitlab"", ""mdb""]",1
+"[""gitlab"", ""nfc""]",1
+"[""gitlab"", ""openembedded""]",1
+"[""gitlab"", ""pci dss""]",1
+"[""gitlab"", ""postgresql""]",1
+"[""gitlab"", ""pulse""]",1
+"[""gitlab"", ""python""]",1
+"[""gitlab"", ""qml""]",1
+"[""gitlab"", ""qt 5.15""]",1
+"[""gitlab"", ""qt creator""]",1
+"[""gitlab"", ""redmine""]",1
+"[""gitlab"", ""rest api""]",1
+"[""gitlab"", ""rs-232/rs-485/rs-422""]",1
+"[""gitlab"", ""scrum""]",1
+"[""gitlab"", ""simulink""]",1
+"[""gitlab"", ""spi""]",1
+"[""gitlab"", ""stl""]",1
+"[""gitlab"", ""uart""]",1
+"[""gitlab"", ""wifi""]",1
+"[""gitlab"", ""yocto""]",1
+"[""gitlab"", ""цос""]",1
+"[""gitlab ci"", ""gstreamer""]",1
+"[""gitlab ci"", ""linux""]",1
+"[""gitlab ci"", ""qt/qml""]",1
+"[""gitlab ci"", ""stl""]",1
+"[""gnu c++"", ""intel c++""]",1
+"[""gnu c++"", ""linux""]",1
+"[""gnu c++"", ""microsoft visual studio""]",1
+"[""gnu c++"", ""ms visual c++""]",1
+"[""gnu c++"", ""ms visual studio""]",1
+"[""gnu c++"", ""preempt_rt""]",1
+"[""gnu c++"", ""real-time""]",1
+"[""gnu c++"", ""shell""]",1
+"[""gnu c++"", ""shell scripting""]",1
+"[""gnu c++"", ""unix""]",1
+"[""gnu c++"", ""unix shell scripts""]",1
+"[""gnu c++"", ""английский язык""]",1
+"[""gnu c++"", ""ооп""]",1
+"[""gnu c++"", ""с""]",1
+"[""gnu c++"", ""системное мышление""]",1
+"[""gnu/linux"", ""linux""]",1
+"[""gnu/linux"", ""qt""]",1
+"[""gnu/linux"", ""x86""]",1
+"[""gnu/linux"", ""разработка по""]",1
+"[""go"", ""golang""]",1
+"[""go"", ""postgresql""]",1
+"[""go"", ""tcp/ip""]",1
+"[""go"", ""windows""]",1
+"[""go"", ""алгоритмы""]",1
+"[""golang"", ""linux""]",1
+"[""golang"", ""postgresql""]",1
+"[""golang"", ""windows""]",1
+"[""gstreamer"", ""linux""]",1
+"[""gstreamer"", ""qt/qml""]",1
+"[""gstreamer"", ""stl""]",1
+"[""hightload"", ""linux""]",1
+"[""hightload"", ""sql""]",1
+"[""hightload"", ""многопоточные приложения""]",1
+"[""hightload"", ""с++14""]",1
+"[""http"", ""postgresql""]",1
+"[""http"", ""работа в команде""]",1
+"[""i2c"", ""labview""]",1
+"[""i2c"", ""matlab""]",1
+"[""i2c"", ""qt creator""]",1
+"[""i2c"", ""rs-232/rs-485/rs-422""]",1
+"[""i2c"", ""simulink""]",1
+"[""i2c"", ""spi""]",1
+"[""i2c"", ""uart""]",1
+"[""i2c"", ""цос""]",1
+"[""icmp"", ""linux""]",1
+"[""icmp"", ""make/cmake""]",1
+"[""icmp"", ""posix""]",1
+"[""icmp"", ""python""]",1
+"[""icmp"", ""tcp/ip""]",1
+"[""icmp"", ""udp""]",1
+"[""images processing"", ""opengl""]",1
+"[""images processing"", ""qt""]",1
+"[""images processing"", ""stl""]",1
+"[""images processing"", ""алгоритмы""]",1
+"[""images processing"", ""аналитическая геометрия""]",1
+"[""images processing"", ""аналитическое мышление""]",1
+"[""images processing"", ""желание работать и развиваться""]",1
+"[""images processing"", ""линейная алгебра""]",1
+"[""images processing"", ""ооп""]",1
+"[""images processing"", ""программирование 3d-графики""]",1
+"[""imgui"", ""mfc""]",1
+"[""imgui"", ""python""]",1
+"[""imgui"", ""qt""]",1
+"[""imgui"", ""ui-frameworks""]",1
+"[""imgui"", ""wxwidgets""]",1
+"[""imgui"", ""многопоточное программирование""]",1
+"[""imgui"", ""ооп""]",1
+"[""intel"", ""jira""]",1
+"[""intel"", ""linux""]",1
+"[""intel"", ""marvel""]",1
+"[""intel"", ""osi""]",1
+"[""intel c++"", ""linux""]",1
+"[""intel c++"", ""microsoft visual studio""]",1
+"[""intel c++"", ""ms visual c++""]",1
+"[""intel c++"", ""ms visual studio""]",1
+"[""intel c++"", ""preempt_rt""]",1
+"[""intel c++"", ""real-time""]",1
+"[""intel c++"", ""shell""]",1
+"[""intel c++"", ""shell scripting""]",1
+"[""intel c++"", ""unix""]",1
+"[""intel c++"", ""unix shell scripts""]",1
+"[""intel c++"", ""английский язык""]",1
+"[""intel c++"", ""ооп""]",1
+"[""intel c++"", ""с""]",1
+"[""intel c++"", ""системное мышление""]",1
+"[""ios"", ""nintendo""]",1
+"[""ios"", ""playstation""]",1
+"[""ios"", ""ue4""]",1
+"[""ios"", ""xbox""]",1
+"[""iot"", ""linux""]",1
+"[""iot"", ""mdb""]",1
+"[""iot"", ""nfc""]",1
+"[""iot"", ""openembedded""]",1
+"[""iot"", ""pci dss""]",1
+"[""iot"", ""pulse""]",1
+"[""iot"", ""qml""]",1
+"[""iot"", ""qt""]",1
+"[""iot"", ""scrum""]",1
+"[""iot"", ""stm""]",1
+"[""iot"", ""wifi""]",1
+"[""iot"", ""yocto""]",1
+"[""iot"", ""аудио""]",1
+"[""iot"", ""видео""]",1
+"[""iot"", ""медицинская техника""]",1
+"[""iron python"", ""openaccess""]",1
+"[""iron python"", ""qt""]",1
+"[""iron python"", ""stl""]",1
+"[""java"", ""linux""]",1
+"[""java"", ""opengl""]",1
+"[""java"", ""openstreetmap""]",1
+"[""java"", ""postgresql""]",1
+"[""java"", ""protobuf""]",1
+"[""java"", ""sql""]",1
+"[""java"", ""stl""]",1
+"[""java"", ""svn""]",1
+"[""java"", ""vulkan""]",1
+"[""java"", ""английский язык""]",1
+"[""jesd204b"", ""matlab""]",1
+"[""jesd204b"", ""microblaze""]",1
+"[""jesd204b"", ""simulink""]",1
+"[""jesd204b"", ""vitis, vivado""]",1
+"[""jesd204b"", ""цос""]",1
+"[""jira"", ""marvel""]",1
+"[""jira"", ""osi""]",1
+"[""jira"", ""tcp/ip""]",1
+"[""jira"", ""udp""]",1
+"[""kotlin"", ""swift""]",1
+"[""kotlin"", ""кроссплатформенная разработка""]",1
+"[""labview"", ""matlab""]",1
+"[""labview"", ""qt creator""]",1
+"[""labview"", ""rs-232/rs-485/rs-422""]",1
+"[""labview"", ""simulink""]",1
+"[""labview"", ""spi""]",1
+"[""labview"", ""uart""]",1
+"[""labview"", ""цос""]",1
+"[""linux"", ""make/cmake""]",1
+"[""linux"", ""marvel""]",1
+"[""linux"", ""mdb""]",1
+"[""linux"", ""microsoft visual studio""]",1
+"[""linux"", ""modbus""]",1
+"[""linux"", ""momentics""]",1
+"[""linux"", ""ms visual c++""]",1
+"[""linux"", ""multithreading""]",1
+"[""linux"", ""nfc""]",1
+"[""linux"", ""nginx""]",1
+"[""linux"", ""opendataplane""]",1
+"[""linux"", ""openembedded""]",1
+"[""linux"", ""pci dss""]",1
+"[""linux"", ""pf_ring zc""]",1
+"[""linux"", ""posix""]",1
+"[""linux"", ""preempt_rt""]",1
+"[""linux"", ""pulse""]",1
+"[""linux"", ""qt creator""]",1
+"[""linux"", ""qt/qml""]",1
+"[""linux"", ""real-time""]",1
+"[""linux"", ""redmine""]",1
+"[""linux"", ""rtos""]",1
+"[""linux"", ""rust""]",1
+"[""linux"", ""shell scripting""]",1
+"[""linux"", ""snabb""]",1
+"[""linux"", ""std""]",1
+"[""linux"", ""svn""]",1
+"[""linux"", ""tcp/udp""]",1
+"[""linux"", ""unit testing""]",1
+"[""linux"", ""unix shell scripts""]",1
+"[""linux"", ""vpp""]",1
+"[""linux"", ""wifi""]",1
+"[""linux"", ""winapi""]",1
+"[""linux"", ""x86""]",1
+"[""linux"", ""xml""]",1
+"[""linux"", ""yocto""]",1
+"[""linux"", ""аккредитованная it - компания""]",1
+"[""linux"", ""алгоритмы""]",1
+"[""linux"", ""алгоритмы и структуры данных""]",1
+"[""linux"", ""аналитические способности""]",1
+"[""linux"", ""базы данных""]",1
+"[""linux"", ""информационные технологии""]",1
+"[""linux"", ""математическое моделирование""]",1
+"[""linux"", ""многопоточное программирование""]",1
+"[""linux"", ""многопоточные приложения""]",1
+"[""linux"", ""мотивация персонала""]",1
+"[""linux"", ""обработка трафика""]",1
+"[""linux"", ""осрв""]",1
+"[""linux"", ""разработка технической документации""]",1
+"[""linux"", ""с++""]",1
+"[""linux"", ""с++14""]",1
+"[""linux"", ""с++17""]",1
+"[""linux"", ""с/с++""]",1
+"[""linux"", ""серверное программирование""]",1
+"[""linux"", ""сетевые технологии""]",1
+"[""linux"", ""системное мышление""]",1
+"[""linux"", ""субд""]",1
+"[""linux"", ""схд""]",1
+"[""linux"", ""схемотехника электронного оборудования""]",1
+"[""linux"", ""управление командой""]",1
+"[""linux"", ""управление разработкой""]",1
+"[""mac os"", ""mac os x server""]",1
+"[""mac os"", ""mac software""]",1
+"[""mac os"", ""macos""]",1
+"[""mac os"", ""macosx""]",1
+"[""mac os"", ""qt""]",1
+"[""mac os"", ""qt5+""]",1
+"[""mac os"", ""udp/tcp""]",1
+"[""mac os"", ""vpn""]",1
+"[""mac os"", ""websocket,""]",1
+"[""mac os"", ""с/с++""]",1
+"[""mac os x server"", ""mac software""]",1
+"[""mac os x server"", ""macos""]",1
+"[""mac os x server"", ""macosx""]",1
+"[""mac os x server"", ""qt""]",1
+"[""mac os x server"", ""qt5+""]",1
+"[""mac os x server"", ""udp/tcp""]",1
+"[""mac os x server"", ""vpn""]",1
+"[""mac os x server"", ""websocket,""]",1
+"[""mac os x server"", ""с/с++""]",1
+"[""mac software"", ""macos""]",1
+"[""mac software"", ""macosx""]",1
+"[""mac software"", ""qt""]",1
+"[""mac software"", ""qt5+""]",1
+"[""mac software"", ""udp/tcp""]",1
+"[""mac software"", ""vpn""]",1
+"[""mac software"", ""websocket,""]",1
+"[""mac software"", ""с/с++""]",1
+"[""macos"", ""macosx""]",1
+"[""macos"", ""qt""]",1
+"[""macos"", ""qt5+""]",1
+"[""macos"", ""udp/tcp""]",1
+"[""macos"", ""vpn""]",1
+"[""macos"", ""websocket,""]",1
+"[""macos"", ""с/с++""]",1
+"[""macosx"", ""qt""]",1
+"[""macosx"", ""qt5+""]",1
+"[""macosx"", ""udp/tcp""]",1
+"[""macosx"", ""vpn""]",1
+"[""macosx"", ""websocket,""]",1
+"[""macosx"", ""с/с++""]",1
+"[""make/cmake"", ""posix""]",1
+"[""make/cmake"", ""python""]",1
+"[""make/cmake"", ""tcp/ip""]",1
+"[""make/cmake"", ""udp""]",1
+"[""mariadb"", ""mysql""]",1
+"[""mariadb"", ""postgresql""]",1
+"[""mariadb"", ""sqlite""]",1
+"[""marvel"", ""osi""]",1
+"[""matlab"", ""microblaze""]",1
+"[""matlab"", ""qt creator""]",1
+"[""matlab"", ""rs-232/rs-485/rs-422""]",1
+"[""matlab"", ""spi""]",1
+"[""matlab"", ""uart""]",1
+"[""matlab"", ""vitis, vivado""]",1
+"[""mdb"", ""nfc""]",1
+"[""mdb"", ""openembedded""]",1
+"[""mdb"", ""pci dss""]",1
+"[""mdb"", ""pulse""]",1
+"[""mdb"", ""qml""]",1
+"[""mdb"", ""qt""]",1
+"[""mdb"", ""scrum""]",1
+"[""mdb"", ""wifi""]",1
+"[""mdb"", ""yocto""]",1
+"[""mfc"", ""microsoft visual studio""]",1
+"[""mfc"", ""python""]",1
+"[""mfc"", ""qt""]",1
+"[""mfc"", ""stl""]",1
+"[""mfc"", ""ui-frameworks""]",1
+"[""mfc"", ""wxwidgets""]",1
+"[""mfc"", ""многопоточное программирование""]",1
+"[""mfc"", ""ооп""]",1
+"[""microblaze"", ""simulink""]",1
+"[""microblaze"", ""vitis, vivado""]",1
+"[""microblaze"", ""цос""]",1
+"[""microsoft visual studio"", ""preempt_rt""]",1
+"[""microsoft visual studio"", ""real-time""]",1
+"[""microsoft visual studio"", ""shell""]",1
+"[""microsoft visual studio"", ""shell scripting""]",1
+"[""microsoft visual studio"", ""stl""]",1
+"[""microsoft visual studio"", ""tcp/ip""]",1
+"[""microsoft visual studio"", ""unix""]",1
+"[""microsoft visual studio"", ""unix shell scripts""]",1
+"[""microsoft visual studio"", ""ооп""]",1
+"[""microsoft visual studio"", ""с""]",1
+"[""microsoft visual studio"", ""системное мышление""]",1
+"[""modbus"", ""mysql""]",1
+"[""modbus"", ""postgresql""]",1
+"[""modbus"", ""схемотехника электронного оборудования""]",1
+"[""momentics"", ""qnx""]",1
+"[""momentics"", ""qt""]",1
+"[""mongodb"", ""python""]",1
+"[""mongodb"", ""базы данных""]",1
+"[""ms sql"", ""ms visual studio""]",1
+"[""ms sql"", ""mysql""]",1
+"[""ms sql"", ""oracle""]",1
+"[""ms sql"", ""postgresql""]",1
+"[""ms sql"", ""qt5+""]",1
+"[""ms sql"", ""server side apps""]",1
+"[""ms sql"", ""shell""]",1
+"[""ms sql"", ""sql""]",1
+"[""ms sql"", ""stl""]",1
+"[""ms sql"", ""unit testing""]",1
+"[""ms sql"", ""аккредитованная it - компания""]",1
+"[""ms sql"", ""базы данных""]",1
+"[""ms sql"", ""многопоточное программирование""]",1
+"[""ms sql server"", ""postgresql""]",1
+"[""ms sql server"", ""sql""]",1
+"[""ms sql server"", ""svn""]",1
+"[""ms sql server"", ""windows api""]",1
+"[""ms sql server"", ""сапр""]",1
+"[""ms visual c++"", ""preempt_rt""]",1
+"[""ms visual c++"", ""real-time""]",1
+"[""ms visual c++"", ""shell""]",1
+"[""ms visual c++"", ""shell scripting""]",1
+"[""ms visual c++"", ""unix""]",1
+"[""ms visual c++"", ""unix shell scripts""]",1
+"[""ms visual c++"", ""английский язык""]",1
+"[""ms visual c++"", ""линейное программирование""]",1
+"[""ms visual c++"", ""ооп""]",1
+"[""ms visual c++"", ""с""]",1
+"[""ms visual c++"", ""системное мышление""]",1
+"[""ms visual c++"", ""умение слушать""]",1
+"[""ms visual studio"", ""multithread programming""]",1
+"[""ms visual studio"", ""mysql""]",1
+"[""ms visual studio"", ""opengl""]",1
+"[""ms visual studio"", ""preempt_rt""]",1
+"[""ms visual studio"", ""qt creator""]",1
+"[""ms visual studio"", ""real-time""]",1
+"[""ms visual studio"", ""shell""]",1
+"[""ms visual studio"", ""shell scripting""]",1
+"[""ms visual studio"", ""tcp/ip""]",1
+"[""ms visual studio"", ""unix shell scripts""]",1
+"[""ms visual studio"", ""windows""]",1
+"[""ms visual studio"", ""windows 7""]",1
+"[""ms visual studio"", ""windows forms""]",1
+"[""ms visual studio"", ""аккредитованная it - компания""]",1
+"[""ms visual studio"", ""линейное программирование""]",1
+"[""ms visual studio"", ""многопоточное программирование""]",1
+"[""ms visual studio"", ""с""]",1
+"[""ms visual studio"", ""системное мышление""]",1
+"[""ms visual studio"", ""умение слушать""]",1
+"[""multithread programming"", ""python""]",1
+"[""multithread programming"", ""qt""]",1
+"[""multithread programming"", ""qt creator""]",1
+"[""multithread programming"", ""rust""]",1
+"[""multithread programming"", ""stl""]",1
+"[""multithread programming"", ""windows""]",1
+"[""multithread programming"", ""ооп""]",1
+"[""mysql"", ""shell""]",1
+"[""mysql"", ""sqlite""]",1
+"[""mysql"", ""unit testing""]",1
+"[""mysql"", ""windows forms""]",1
+"[""mysql"", ""базы данных""]",1
+"[""mysql"", ""схемотехника электронного оборудования""]",1
+"[""nanocad"", ""qt""]",1
+"[""nanocad"", ""сапр""]",1
+"[""nfc"", ""openembedded""]",1
+"[""nfc"", ""pci dss""]",1
+"[""nfc"", ""pulse""]",1
+"[""nfc"", ""qml""]",1
+"[""nfc"", ""qt""]",1
+"[""nfc"", ""scrum""]",1
+"[""nfc"", ""wifi""]",1
+"[""nfc"", ""yocto""]",1
+"[""nginx"", ""osi""]",1
+"[""nintendo"", ""playstation""]",1
+"[""nintendo"", ""ue4""]",1
+"[""nintendo"", ""xbox""]",1
+"[""oda"", ""opengl""]",1
+"[""openaccess"", ""qt""]",1
+"[""openaccess"", ""stl""]",1
+"[""opendataplane"", ""pf_ring zc""]",1
+"[""opendataplane"", ""snabb""]",1
+"[""opendataplane"", ""vpp""]",1
+"[""opendataplane"", ""обработка трафика""]",1
+"[""opendataplane"", ""сетевые технологии""]",1
+"[""openembedded"", ""pci dss""]",1
+"[""openembedded"", ""pulse""]",1
+"[""openembedded"", ""qml""]",1
+"[""openembedded"", ""qt""]",1
+"[""openembedded"", ""scrum""]",1
+"[""openembedded"", ""wifi""]",1
+"[""openembedded"", ""yocto""]",1
+"[""opengl"", ""openstreetmap""]",1
+"[""opengl"", ""protobuf""]",1
+"[""opengl"", ""vulkan""]",1
+"[""opengl"", ""алгоритмы""]",1
+"[""opengl"", ""аналитическая геометрия""]",1
+"[""opengl"", ""аналитическое мышление""]",1
+"[""opengl"", ""желание работать и развиваться""]",1
+"[""opengl"", ""линейная алгебра""]",1
+"[""opengl"", ""программирование 3d-графики""]",1
+"[""opengl"", ""с++ 17""]",1
+"[""openssl"", ""python""]",1
+"[""openssl"", ""qt""]",1
+"[""openstreetmap"", ""protobuf""]",1
+"[""openstreetmap"", ""stl""]",1
+"[""openstreetmap"", ""vulkan""]",1
+"[""openstreetmap"", ""английский язык""]",1
+"[""oracle"", ""shell""]",1
+"[""oracle"", ""unit testing""]",1
+"[""oracle"", ""базы данных""]",1
+"[""orm"", ""алгоритмы и структуры данных""]",1
+"[""pci dss"", ""pulse""]",1
+"[""pci dss"", ""qml""]",1
+"[""pci dss"", ""qt""]",1
+"[""pci dss"", ""scrum""]",1
+"[""pci dss"", ""wifi""]",1
+"[""pci dss"", ""yocto""]",1
+"[""pf_ring zc"", ""snabb""]",1
+"[""pf_ring zc"", ""vpp""]",1
+"[""pf_ring zc"", ""обработка трафика""]",1
+"[""pf_ring zc"", ""сетевые технологии""]",1
+"[""playstation"", ""ue4""]",1
+"[""playstation"", ""xbox""]",1
+"[""posix"", ""python""]",1
+"[""posix"", ""qt""]",1
+"[""posix"", ""sql""]",1
+"[""posix"", ""tcp/ip""]",1
+"[""posix"", ""udp""]",1
+"[""posix"", ""unix""]",1
+"[""posix"", ""winapi""]",1
+"[""posix"", ""субд""]",1
+"[""postgresql"", ""redmine""]",1
+"[""postgresql"", ""rest api""]",1
+"[""postgresql"", ""scrum""]",1
+"[""postgresql"", ""shell""]",1
+"[""postgresql"", ""sqlite""]",1
+"[""postgresql"", ""tcp/ip""]",1
+"[""postgresql"", ""unit testing""]",1
+"[""postgresql"", ""windows""]",1
+"[""postgresql"", ""windows api""]",1
+"[""postgresql"", ""базы данных""]",1
+"[""postgresql"", ""ооп""]",1
+"[""postgresql"", ""работа в команде""]",1
+"[""postgresql"", ""сапр""]",1
+"[""postgresql"", ""схемотехника электронного оборудования""]",1
+"[""preempt_rt"", ""real-time""]",1
+"[""preempt_rt"", ""shell""]",1
+"[""preempt_rt"", ""shell scripting""]",1
+"[""preempt_rt"", ""unix""]",1
+"[""preempt_rt"", ""unix shell scripts""]",1
+"[""preempt_rt"", ""английский язык""]",1
+"[""preempt_rt"", ""ооп""]",1
+"[""preempt_rt"", ""с""]",1
+"[""preempt_rt"", ""системное мышление""]",1
+"[""protobuf"", ""stl""]",1
+"[""protobuf"", ""vulkan""]",1
+"[""protobuf"", ""английский язык""]",1
+"[""pulse"", ""qml""]",1
+"[""pulse"", ""qt""]",1
+"[""pulse"", ""scrum""]",1
+"[""pulse"", ""wifi""]",1
+"[""pulse"", ""yocto""]",1
+"[""python"", ""qml""]",1
+"[""python"", ""redmine""]",1
+"[""python"", ""rest api""]",1
+"[""python"", ""ros""]",1
+"[""python"", ""udp""]",1
+"[""python"", ""ui-frameworks""]",1
+"[""python"", ""unix""]",1
+"[""python"", ""unreal engine""]",1
+"[""python"", ""wxwidgets""]",1
+"[""python"", ""базы данных""]",1
+"[""python"", ""многопоточное программирование""]",1
+"[""python"", ""мотивация персонала""]",1
+"[""python"", ""разработка технической документации""]",1
+"[""python"", ""с""]",1
+"[""python"", ""серверное программирование""]",1
+"[""python"", ""схд""]",1
+"[""python"", ""управление командой""]",1
+"[""python"", ""управление разработкой""]",1
+"[""qml"", ""scrum""]",1
+"[""qml"", ""stl""]",1
+"[""qml"", ""tcp/ip""]",1
+"[""qml"", ""wifi""]",1
+"[""qml"", ""yocto""]",1
+"[""qml"", ""мотивация персонала""]",1
+"[""qml"", ""ооп""]",1
+"[""qml"", ""разработка технической документации""]",1
+"[""qml"", ""управление командой""]",1
+"[""qml"", ""управление разработкой""]",1
+"[""qt"", ""qt 5.15""]",1
+"[""qt"", ""qt creator""]",1
+"[""qt"", ""qt5+""]",1
+"[""qt"", ""redmine""]",1
+"[""qt"", ""rest api""]",1
+"[""qt"", ""scrum""]",1
+"[""qt"", ""sip""]",1
+"[""qt"", ""svn""]",1
+"[""qt"", ""udp/tcp""]",1
+"[""qt"", ""ui-frameworks""]",1
+"[""qt"", ""unix""]",1
+"[""qt"", ""voip""]",1
+"[""qt"", ""vpn""]",1
+"[""qt"", ""websocket,""]",1
+"[""qt"", ""wifi""]",1
+"[""qt"", ""windows""]",1
+"[""qt"", ""wxwidgets""]",1
+"[""qt"", ""x86""]",1
+"[""qt"", ""yocto""]",1
+"[""qt"", ""алгоритмы""]",1
+"[""qt"", ""аналитическая геометрия""]",1
+"[""qt"", ""аналитическое мышление""]",1
+"[""qt"", ""английский язык""]",1
+"[""qt"", ""желание работать и развиваться""]",1
+"[""qt"", ""информационные технологии""]",1
+"[""qt"", ""линейная алгебра""]",1
+"[""qt"", ""многопоточное программирование""]",1
+"[""qt"", ""мотивация персонала""]",1
+"[""qt"", ""прикладное по""]",1
+"[""qt"", ""программирование 3d-графики""]",1
+"[""qt"", ""разработка технической документации""]",1
+"[""qt"", ""с/с++""]",1
+"[""qt"", ""сапр""]",1
+"[""qt"", ""управление командой""]",1
+"[""qt"", ""управление разработкой""]",1
+"[""qt 5.15"", ""stl""]",1
+"[""qt creator"", ""rs-232/rs-485/rs-422""]",1
+"[""qt creator"", ""simulink""]",1
+"[""qt creator"", ""spi""]",1
+"[""qt creator"", ""uart""]",1
+"[""qt creator"", ""windows""]",1
+"[""qt creator"", ""ооп""]",1
+"[""qt creator"", ""цос""]",1
+"[""qt/qml"", ""stl""]",1
+"[""qt5+"", ""server side apps""]",1
+"[""qt5+"", ""udp/tcp""]",1
+"[""qt5+"", ""vpn""]",1
+"[""qt5+"", ""websocket,""]",1
+"[""qt5+"", ""с/с++""]",1
+"[""real-time"", ""shell""]",1
+"[""real-time"", ""shell scripting""]",1
+"[""real-time"", ""unix""]",1
+"[""real-time"", ""unix shell scripts""]",1
+"[""real-time"", ""английский язык""]",1
+"[""real-time"", ""ооп""]",1
+"[""real-time"", ""с""]",1
+"[""real-time"", ""системное мышление""]",1
+"[""redmine"", ""rest api""]",1
+"[""risc"", ""английский язык (чтение технической литературы)""]",1
+"[""risc"", ""разработка встроенного по""]",1
+"[""ros"", ""unreal engine""]",1
+"[""rs-232/rs-485/rs-422"", ""simulink""]",1
+"[""rs-232/rs-485/rs-422"", ""spi""]",1
+"[""rs-232/rs-485/rs-422"", ""uart""]",1
+"[""rs-232/rs-485/rs-422"", ""цос""]",1
+"[""rtos"", ""осрв""]",1
+"[""scrum"", ""wifi""]",1
+"[""scrum"", ""yocto""]",1
+"[""shell"", ""shell scripting""]",1
+"[""shell"", ""sql""]",1
+"[""shell"", ""unit testing""]",1
+"[""shell"", ""unix""]",1
+"[""shell"", ""unix shell scripts""]",1
+"[""shell"", ""английский язык""]",1
+"[""shell"", ""базы данных""]",1
+"[""shell"", ""ооп""]",1
+"[""shell"", ""с""]",1
+"[""shell"", ""системное мышление""]",1
+"[""shell scripting"", ""unix""]",1
+"[""shell scripting"", ""unix shell scripts""]",1
+"[""shell scripting"", ""английский язык""]",1
+"[""shell scripting"", ""ооп""]",1
+"[""shell scripting"", ""с""]",1
+"[""shell scripting"", ""системное мышление""]",1
+"[""simulink"", ""spi""]",1
+"[""simulink"", ""uart""]",1
+"[""simulink"", ""vitis, vivado""]",1
+"[""sip"", ""voip""]",1
+"[""sip"", ""с++""]",1
+"[""snabb"", ""vpp""]",1
+"[""snabb"", ""обработка трафика""]",1
+"[""snabb"", ""сетевые технологии""]",1
+"[""spi"", ""uart""]",1
+"[""spi"", ""цос""]",1
+"[""sql"", ""unit testing""]",1
+"[""sql"", ""windows api""]",1
+"[""sql"", ""xml""]",1
+"[""sql"", ""английский язык""]",1
+"[""sql"", ""базы данных""]",1
+"[""sql"", ""многопоточные приложения""]",1
+"[""sql"", ""обучение и развитие""]",1
+"[""sql"", ""работа в команде""]",1
+"[""sql"", ""с++14""]",1
+"[""sql"", ""сапр""]",1
+"[""sql"", ""субд""]",1
+"[""stl"", ""svn""]",1
+"[""stl"", ""unix""]",1
+"[""stl"", ""vulkan""]",1
+"[""stl"", ""win32 api""]",1
+"[""stl"", ""windbg""]",1
+"[""stl"", ""windows""]",1
+"[""stl"", ""windows kernel""]",1
+"[""stl"", ""аккредитованная it - компания""]",1
+"[""stl"", ""аналитическая геометрия""]",1
+"[""stl"", ""аналитическое мышление""]",1
+"[""stl"", ""желание работать и развиваться""]",1
+"[""stl"", ""линейная алгебра""]",1
+"[""stl"", ""многопоточное программирование""]",1
+"[""stl"", ""мотивация персонала""]",1
+"[""stl"", ""программирование 3d-графики""]",1
+"[""stl"", ""разработка драйверов""]",1
+"[""stl"", ""разработка по""]",1
+"[""stl"", ""разработка технической документации""]",1
+"[""stl"", ""с++""]",1
+"[""stl"", ""системное программирование""]",1
+"[""stl"", ""субд""]",1
+"[""stl"", ""управление командой""]",1
+"[""stl"", ""управление разработкой""]",1
+"[""stm"", ""аудио""]",1
+"[""stm"", ""видео""]",1
+"[""stm"", ""медицинская техника""]",1
+"[""svn"", ""windows api""]",1
+"[""svn"", ""xml""]",1
+"[""svn"", ""прикладное по""]",1
+"[""svn"", ""разработка по""]",1
+"[""svn"", ""сапр""]",1
+"[""swift"", ""кроссплатформенная разработка""]",1
+"[""tcp/ip"", ""аналитические способности""]",1
+"[""tcp/ip"", ""английский язык""]",1
+"[""tcp/ip"", ""мотивация персонала""]",1
+"[""tcp/ip"", ""разработка технической документации""]",1
+"[""tcp/ip"", ""управление командой""]",1
+"[""tcp/ip"", ""управление разработкой""]",1
+"[""uart"", ""цос""]",1
+"[""udp/tcp"", ""vpn""]",1
+"[""udp/tcp"", ""websocket,""]",1
+"[""udp/tcp"", ""с/с++""]",1
+"[""ue4"", ""xbox""]",1
+"[""ui-frameworks"", ""wxwidgets""]",1
+"[""ui-frameworks"", ""многопоточное программирование""]",1
+"[""ui-frameworks"", ""ооп""]",1
+"[""unit testing"", ""базы данных""]",1
+"[""unix"", ""unix shell scripts""]",1
+"[""unix"", ""winapi""]",1
+"[""unix"", ""английский язык""]",1
+"[""unix"", ""ооп""]",1
+"[""unix"", ""с""]",1
+"[""unix"", ""серверное программирование""]",1
+"[""unix"", ""системное мышление""]",1
+"[""unix"", ""субд""]",1
+"[""unix"", ""схд""]",1
+"[""unix shell scripts"", ""английский язык""]",1
+"[""unix shell scripts"", ""ооп""]",1
+"[""unix shell scripts"", ""с""]",1
+"[""unix shell scripts"", ""системное мышление""]",1
+"[""vitis, vivado"", ""цос""]",1
+"[""voip"", ""с++""]",1
+"[""vpn"", ""websocket,""]",1
+"[""vpn"", ""с/с++""]",1
+"[""vpp"", ""обработка трафика""]",1
+"[""vpp"", ""сетевые технологии""]",1
+"[""vulkan"", ""английский язык""]",1
+"[""websocket,"", ""с/с++""]",1
+"[""wifi"", ""yocto""]",1
+"[""win32 api"", ""windows kernel""]",1
+"[""win32 api"", ""разработка драйверов""]",1
+"[""win32 api"", ""с#""]",1
+"[""win32 api"", ""системное программирование""]",1
+"[""winapi"", ""windbg""]",1
+"[""windows"", ""ооп""]",1
+"[""windows 7"", ""ооп""]",1
+"[""windows api"", ""сапр""]",1
+"[""windows kernel"", ""разработка драйверов""]",1
+"[""windows kernel"", ""системное программирование""]",1
+"[""windows os"", ""английский язык""]",1
+"[""windows os"", ""поиск информации в интернет""]",1
+"[""windows os"", ""сводные таблицы""]",1
+"[""windows os"", ""умение работать в коллективе""]",1
+"[""wxwidgets"", ""многопоточное программирование""]",1
+"[""wxwidgets"", ""ооп""]",1
+"[""x86"", ""разработка по""]",1
+"[""xml"", ""английский язык""]",1
+"[""xml"", ""ооп""]",1
+"[""аккредитованная it - компания"", ""многопоточное программирование""]",1
+"[""алгоритмы"", ""алгоритмы и структуры данных""]",1
+"[""алгоритмы"", ""аналитическая геометрия""]",1
+"[""алгоритмы"", ""аналитическое мышление""]",1
+"[""алгоритмы"", ""желание работать и развиваться""]",1
+"[""алгоритмы"", ""линейная алгебра""]",1
+"[""алгоритмы"", ""ооп""]",1
+"[""алгоритмы"", ""программирование 3d-графики""]",1
+"[""алгоритмы и структуры данных"", ""ооп""]",1
+"[""аналитическая геометрия"", ""аналитическое мышление""]",1
+"[""аналитическая геометрия"", ""желание работать и развиваться""]",1
+"[""аналитическая геометрия"", ""линейная алгебра""]",1
+"[""аналитическая геометрия"", ""ооп""]",1
+"[""аналитическая геометрия"", ""программирование 3d-графики""]",1
+"[""аналитические способности"", ""ооп""]",1
+"[""аналитическое мышление"", ""желание работать и развиваться""]",1
+"[""аналитическое мышление"", ""линейная алгебра""]",1
+"[""аналитическое мышление"", ""ооп""]",1
+"[""аналитическое мышление"", ""программирование 3d-графики""]",1
+"[""английский язык"", ""разработка по""]",1
+"[""английский язык"", ""с""]",1
+"[""английский язык"", ""с#""]",1
+"[""английский язык"", ""системное мышление""]",1
+"[""английский язык"", ""𝐂++""]",1
+"[""английский язык (чтение технической литературы)"", ""разработка встроенного по""]",1
+"[""аудио"", ""видео""]",1
+"[""аудио"", ""медицинская техника""]",1
+"[""видео"", ""медицинская техника""]",1
+"[""вычислительная геометрия"", ""вычислительная математика""]",1
+"[""вычислительная геометрия"", ""линейная алгебра""]",1
+"[""вычислительная геометрия"", ""математический анализ""]",1
+"[""вычислительная геометрия"", ""оптимизация алгоритмов""]",1
+"[""вычислительная геометрия"", ""параллельные вычисления""]",1
+"[""вычислительная математика"", ""линейная алгебра""]",1
+"[""вычислительная математика"", ""математический анализ""]",1
+"[""вычислительная математика"", ""оптимизация алгоритмов""]",1
+"[""вычислительная математика"", ""параллельные вычисления""]",1
+"[""геометрическое моделирование"", ""математическое моделирование""]",1
+"[""геометрическое моделирование"", ""математическое программирование""]",1
+"[""желание работать и развиваться"", ""линейная алгебра""]",1
+"[""желание работать и развиваться"", ""ооп""]",1
+"[""желание работать и развиваться"", ""программирование 3d-графики""]",1
+"[""игровое по"", ""разработка по""]",1
+"[""информационные технологии"", ""разработка по""]",1
+"[""линейная алгебра"", ""математический анализ""]",1
+"[""линейная алгебра"", ""ооп""]",1
+"[""линейная алгебра"", ""оптимизация алгоритмов""]",1
+"[""линейная алгебра"", ""параллельные вычисления""]",1
+"[""линейная алгебра"", ""программирование 3d-графики""]",1
+"[""линейное программирование"", ""умение слушать""]",1
+"[""математический анализ"", ""оптимизация алгоритмов""]",1
+"[""математический анализ"", ""параллельные вычисления""]",1
+"[""математическое моделирование"", ""математическое программирование""]",1
+"[""математическое моделирование"", ""ооп""]",1
+"[""многопоточное программирование"", ""ооп""]",1
+"[""многопоточные приложения"", ""с++14""]",1
+"[""мотивация персонала"", ""ооп""]",1
+"[""мотивация персонала"", ""разработка технической документации""]",1
+"[""мотивация персонала"", ""управление командой""]",1
+"[""мотивация персонала"", ""управление разработкой""]",1
+"[""обработка трафика"", ""сетевые технологии""]",1
+"[""обучение и развитие"", ""работа в команде""]",1
+"[""ооп"", ""прикладное по""]",1
+"[""ооп"", ""программирование 3d-графики""]",1
+"[""ооп"", ""разработка технической документации""]",1
+"[""ооп"", ""с""]",1
+"[""ооп"", ""системное мышление""]",1
+"[""ооп"", ""управление командой""]",1
+"[""ооп"", ""управление разработкой""]",1
+"[""оптимизация алгоритмов"", ""параллельные вычисления""]",1
+"[""прикладное по"", ""разработка по""]",1
+"[""разработка драйверов"", ""системное программирование""]",1
+"[""разработка технической документации"", ""управление командой""]",1
+"[""разработка технической документации"", ""управление разработкой""]",1
+"[""реверс-инжиниринг"", ""системный программист""]",1
+"[""с"", ""с/с++""]",1
+"[""с"", ""системное мышление""]",1
+"[""с#"", ""𝐂++""]",1
+"[""серверное программирование"", ""схд""]",1
+"[""управление командой"", ""управление разработкой""]",1

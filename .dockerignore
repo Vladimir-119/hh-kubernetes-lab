@@ -1,0 +1,14 @@
+.git
+.env
+.env.*
+.venv
+__pycache__
+logs
+evidence
+results
+reference
+data/parts
+*.zip
+*.pdf
+*.docx
+.DS_Store

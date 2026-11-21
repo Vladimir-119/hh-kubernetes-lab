@@ -1,0 +1,2 @@
+NAME                PHASE       REASON      EXIT   MEM_REQUEST   MEM_LIMIT
+pairs-tuned-txb2j   Succeeded   Completed   0      32Mi          32Mi

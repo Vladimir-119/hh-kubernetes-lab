@@ -1,0 +1,57 @@
+{
+  "endpoint": "http://127.0.0.1:19000",
+  "bucket": "hh-lake",
+  "original_sha256": "d9bb991e4932c95d2231decb70f21b31338c4be0a3b89cf9d1a8cbfefd20e2b5",
+  "parts_concatenated_sha256": "d9bb991e4932c95d2231decb70f21b31338c4be0a3b89cf9d1a8cbfefd20e2b5",
+  "source_rows": 68770,
+  "part_rows": [
+    17193,
+    17193,
+    17193,
+    17191
+  ],
+  "part_rows_total": 68770,
+  "objects": [
+    {
+      "key": "raw/it_vacancies.jsonl",
+      "rows": 68770,
+      "bytes": 30732626,
+      "sha256": "d9bb991e4932c95d2231decb70f21b31338c4be0a3b89cf9d1a8cbfefd20e2b5",
+      "downloaded_sha256": "d9bb991e4932c95d2231decb70f21b31338c4be0a3b89cf9d1a8cbfefd20e2b5",
+      "verified": true
+    },
+    {
+      "key": "parts/part-0.jsonl",
+      "rows": 17193,
+      "bytes": 7903832,
+      "sha256": "70ee40a2f82820cfda75de20ed0da51f35c03eb5f0b7aeb726453937270b6e45",
+      "downloaded_sha256": "70ee40a2f82820cfda75de20ed0da51f35c03eb5f0b7aeb726453937270b6e45",
+      "verified": true
+    },
+    {
+      "key": "parts/part-1.jsonl",
+      "rows": 17193,
+      "bytes": 7632585,
+      "sha256": "dfe9d0141922dd9bcd5f68c1ff928ab59e0d872efcc5287af9f36b11e240494f",
+      "downloaded_sha256": "dfe9d0141922dd9bcd5f68c1ff928ab59e0d872efcc5287af9f36b11e240494f",
+      "verified": true
+    },
+    {
+      "key": "parts/part-2.jsonl",
+      "rows": 17193,
+      "bytes": 7549374,
+      "sha256": "ee854b5bb24d9186bf11011a958a5ee9cf8fff3adac4460e1e2abbd471eaa0ed",
+      "downloaded_sha256": "ee854b5bb24d9186bf11011a958a5ee9cf8fff3adac4460e1e2abbd471eaa0ed",
+      "verified": true
+    },
+    {
+      "key": "parts/part-3.jsonl",
+      "rows": 17191,
+      "bytes": 7646835,
+      "sha256": "0e20804cd77fc8db1ddc07da86c00ee7d66e89a71f8e9788cbd84d930ff3550e",
+      "downloaded_sha256": "0e20804cd77fc8db1ddc07da86c00ee7d66e89a71f8e9788cbd84d930ff3550e",
+      "verified": true
+    }
+  ],
+  "all_s3_hashes_match": true
+}

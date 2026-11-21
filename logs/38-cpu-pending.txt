@@ -1,0 +1,51 @@
+pod/cpu-waiter created
+pod/cpu-waiter condition met
+NAME         READY   STATUS    RESTARTS   AGE
+cpu-holder   1/1     Running   0          14s
+cpu-waiter   0/1     Pending   0          0s
+Name:             cpu-waiter
+Namespace:        hh-lab
+Priority:         0
+Service Account:  default
+Node:             <none>
+Labels:           <none>
+Annotations:      <none>
+Status:           Pending
+IP:               
+IPs:              <none>
+Containers:
+  sleeper:
+    Image:      hh-pairs:lab
+    Port:       <none>
+    Host Port:  <none>
+    Command:
+      python3
+      -c
+      import time; time.sleep(3600)
+    Limits:
+      cpu:     2
+      memory:  128Mi
+    Requests:
+      cpu:        2
+      memory:     32Mi
+    Environment:  <none>
+    Mounts:
+      /var/run/secrets/kubernetes.io/serviceaccount from kube-api-access-5dl6q (ro)
+Conditions:
+  Type           Status
+  PodScheduled   False 
+Volumes:
+  kube-api-access-5dl6q:
+    Type:                    Projected (a volume that contains injected data from multiple sources)
+    TokenExpirationSeconds:  3607
+    ConfigMapName:           kube-root-ca.crt
+    Optional:                false
+    DownwardAPI:             true
+QoS Class:                   Burstable
+Node-Selectors:              <none>
+Tolerations:                 node.kubernetes.io/not-ready:NoExecute op=Exists for 300s
+                             node.kubernetes.io/unreachable:NoExecute op=Exists for 300s
+Events:
+  Type     Reason            Age   From               Message
+  ----     ------            ----  ----               -------
+  Warning  FailedScheduling  0s    default-scheduler  0/1 nodes are available: 1 Insufficient cpu. preemption: 0/1 nodes are available: 1 No preemption victims found for incoming pod.

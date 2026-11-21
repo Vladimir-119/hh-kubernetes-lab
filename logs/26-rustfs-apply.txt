@@ -1,0 +1,3 @@
+persistentvolumeclaim/rustfs-data created
+deployment.apps/rustfs created
+service/rustfs created

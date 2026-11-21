@@ -1,0 +1,10 @@
+Bucket: hh-lake
+KEY | ROWS | BYTES | SHA256_OK
+raw/it_vacancies.jsonl | 68770 | 30732626 | True
+parts/part-0.jsonl | 17193 | 7903832 | True
+parts/part-1.jsonl | 17193 | 7632585 | True
+parts/part-2.jsonl | 17193 | 7549374 | True
+parts/part-3.jsonl | 17191 | 7646835 | True
+Rows across 4 parts: 68770
+Concatenated SHA-256: d9bb991e4932c95d2231decb70f21b31338c4be0a3b89cf9d1a8cbfefd20e2b5
+All S3 hashes match: True

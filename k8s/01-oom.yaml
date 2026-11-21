@@ -1,0 +1,32 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hh-lab
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: pairs-oom
+  namespace: hh-lab
+spec:
+  backoffLimit: 0
+  template:
+    spec:
+      restartPolicy: Never
+      containers:
+        - name: worker
+          image: hh-pairs:lab
+          imagePullPolicy: Never
+          args:
+            - count
+            - --input
+            - /app/data/it_vacancies.jsonl
+            - --output
+            - /tmp/counts_k2.csv
+          resources:
+            requests:
+              cpu: "100m"
+              memory: "12Mi"
+            limits:
+              cpu: "1"
+              memory: "12Mi"

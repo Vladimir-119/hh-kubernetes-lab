@@ -1,0 +1,87 @@
+{"event": "start", "command": "count", "inputs": ["s3://hh-lake/parts/part-0.jsonl"], "output": "s3://hh-lake/results/parts/part-0.csv", "job_index": "0"}
+{
+  "event": "complete",
+  "command": "count",
+  "inputs": [
+    "s3://hh-lake/parts/part-0.jsonl"
+  ],
+  "output": "s3://hh-lake/results/parts/part-0.csv",
+  "unique_pairs": 2017,
+  "sum_counts": 2876,
+  "top10": [
+    {
+      "skills": [
+        "c++",
+        "linux"
+      ],
+      "n": 46
+    },
+    {
+      "skills": [
+        "c/c++",
+        "linux"
+      ],
+      "n": 38
+    },
+    {
+      "skills": [
+        "git",
+        "linux"
+      ],
+      "n": 30
+    },
+    {
+      "skills": [
+        "c++",
+        "git"
+      ],
+      "n": 29
+    },
+    {
+      "skills": [
+        "c++",
+        "qt"
+      ],
+      "n": 28
+    },
+    {
+      "skills": [
+        "c++",
+        "stl"
+      ],
+      "n": 26
+    },
+    {
+      "skills": [
+        "c++",
+        "c/c++"
+      ],
+      "n": 20
+    },
+    {
+      "skills": [
+        "c/c++",
+        "git"
+      ],
+      "n": 20
+    },
+    {
+      "skills": [
+        "c++",
+        "ооп"
+      ],
+      "n": 18
+    },
+    {
+      "skills": [
+        "linux",
+        "qt"
+      ],
+      "n": 16
+    }
+  ],
+  "source_rows": 17193,
+  "selected_rows": 235,
+  "peak_rss_mib": 50.723,
+  "peak_cgroup_mib": 43.293
+}

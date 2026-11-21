@@ -1,0 +1,70 @@
+Name:             pairs-oom-9rmpg
+Namespace:        hh-lab
+Priority:         0
+Service Account:  default
+Node:             de-k8s/192.168.49.2
+Start Time:       Sat, 21 Nov 2026 11:29:03 +0300
+Labels:           batch.kubernetes.io/controller-uid=32645e71-86d1-468f-a5fb-29afa425e1a7
+                  batch.kubernetes.io/job-name=pairs-oom
+                  controller-uid=32645e71-86d1-468f-a5fb-29afa425e1a7
+                  job-name=pairs-oom
+Annotations:      <none>
+Status:           Failed
+IP:               10.244.0.3
+IPs:
+  IP:           10.244.0.3
+Controlled By:  Job/pairs-oom
+Containers:
+  worker:
+    Container ID:  containerd://49f59278ff772c94fec3129d1121bcc5d9a84851ba1211b7fd207bcc5290c0ae
+    Image:         hh-pairs:lab
+    Image ID:      sha256:4d2923f1678fb83e99cd4644371b30520d3092749db077041574ad3795d06e26
+    Port:          <none>
+    Host Port:     <none>
+    Args:
+      count
+      --input
+      /app/data/it_vacancies.jsonl
+      --output
+      /tmp/counts_k2.csv
+    State:          Terminated
+      Reason:       OOMKilled
+      Exit Code:    137
+      Started:      Sat, 21 Nov 2026 11:29:04 +0300
+      Finished:     Sat, 21 Nov 2026 11:29:04 +0300
+    Ready:          False
+    Restart Count:  0
+    Limits:
+      cpu:     1
+      memory:  12Mi
+    Requests:
+      cpu:        100m
+      memory:     12Mi
+    Environment:  <none>
+    Mounts:
+      /var/run/secrets/kubernetes.io/serviceaccount from kube-api-access-5wm22 (ro)
+Conditions:
+  Type                        Status
+  PodReadyToStartContainers   False 
+  Initialized                 True 
+  Ready                       False 
+  ContainersReady             False 
+  PodScheduled                True 
+Volumes:
+  kube-api-access-5wm22:
+    Type:                    Projected (a volume that contains injected data from multiple sources)
+    TokenExpirationSeconds:  3607
+    ConfigMapName:           kube-root-ca.crt
+    Optional:                false
+    DownwardAPI:             true
+QoS Class:                   Burstable
+Node-Selectors:              <none>
+Tolerations:                 node.kubernetes.io/not-ready:NoExecute op=Exists for 300s
+                             node.kubernetes.io/unreachable:NoExecute op=Exists for 300s
+Events:
+  Type    Reason     Age   From               Message
+  ----    ------     ----  ----               -------
+  Normal  Scheduled  28s   default-scheduler  Successfully assigned hh-lab/pairs-oom-9rmpg to de-k8s
+  Normal  Pulled     27s   kubelet            spec.containers{worker}: Container image "hh-pairs:lab" already present on machine and can be accessed by the pod
+  Normal  Created    27s   kubelet            spec.containers{worker}: Container created
+  Normal  Started    27s   kubelet            spec.containers{worker}: Container started

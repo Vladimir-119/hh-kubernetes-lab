@@ -1,0 +1,74 @@
+pod/priority-high created
+pod/priority-high condition met
+NAME            READY   STATUS    RESTARTS   AGE   IP            NODE     NOMINATED NODE   READINESS GATES
+priority-high   1/1     Running   0          2s    10.244.0.14   de-k8s   <none>           <none>
+LAST SEEN   TYPE     REASON      OBJECT             MESSAGE
+23s         Normal   Scheduled   pod/priority-low   Successfully assigned hh-lab/priority-low to de-k8s
+22s         Normal   Pulled      pod/priority-low   Container image "hh-pairs:lab" already present on machine and can be accessed by the pod
+22s         Normal   Created     pod/priority-low   Container created
+22s         Normal   Started     pod/priority-low   Container started
+2s          Normal   Preempted   pod/priority-low   Preempted by pod 6f449cf4-4c28-42e1-a31f-65a445740dcc on node de-k8s
+2s          Normal   Killing     pod/priority-low   Stopping container sleeper
+Name:                 priority-high
+Namespace:            hh-lab
+Priority:             -50
+Priority Class Name:  hh-lab-high
+Service Account:      default
+Node:                 de-k8s/192.168.49.2
+Start Time:           Sat, 21 Nov 2026 12:05:34 +0300
+Labels:               experiment=preemption
+Annotations:          <none>
+Status:               Running
+IP:                   10.244.0.14
+IPs:
+  IP:  10.244.0.14
+Containers:
+  sleeper:
+    Container ID:  containerd://65e6d81d500a0b607a601843b39ca051bf31eee62fc5163b298ebf99d1948441
+    Image:         hh-pairs:lab
+    Image ID:      sha256:4d2923f1678fb83e99cd4644371b30520d3092749db077041574ad3795d06e26
+    Port:          <none>
+    Host Port:     <none>
+    Command:
+      python3
+      -c
+      import time; time.sleep(3600)
+    State:          Running
+      Started:      Sat, 21 Nov 2026 12:05:34 +0300
+    Ready:          True
+    Restart Count:  0
+    Limits:
+      cpu:     2
+      memory:  128Mi
+    Requests:
+      cpu:        2
+      memory:     32Mi
+    Environment:  <none>
+    Mounts:
+      /var/run/secrets/kubernetes.io/serviceaccount from kube-api-access-mfjng (ro)
+Conditions:
+  Type                        Status
+  PodReadyToStartContainers   True 
+  Initialized                 True 
+  Ready                       True 
+  ContainersReady             True 
+  PodScheduled                True 
+Volumes:
+  kube-api-access-mfjng:
+    Type:                    Projected (a volume that contains injected data from multiple sources)
+    TokenExpirationSeconds:  3607
+    ConfigMapName:           kube-root-ca.crt
+    Optional:                false
+    DownwardAPI:             true
+QoS Class:                   Burstable
+Node-Selectors:              <none>
+Tolerations:                 node.kubernetes.io/not-ready:NoExecute op=Exists for 300s
+                             node.kubernetes.io/unreachable:NoExecute op=Exists for 300s
+Events:
+  Type     Reason            Age   From               Message
+  ----     ------            ----  ----               -------
+  Warning  FailedScheduling  3s    default-scheduler  0/1 nodes are available: 1 Insufficient cpu. preemption: found a potential placement for pod on node de-k8s, preempting 1 victims
+  Normal   Scheduled         1s    default-scheduler  Successfully assigned hh-lab/priority-high to de-k8s
+  Normal   Pulled            1s    kubelet            spec.containers{sleeper}: Container image "hh-pairs:lab" already present on machine and can be accessed by the pod
+  Normal   Created           1s    kubelet            spec.containers{sleeper}: Container created
+  Normal   Started           1s    kubelet            spec.containers{sleeper}: Container started

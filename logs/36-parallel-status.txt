@@ -1,0 +1,7 @@
+NAME             STATUS     COMPLETIONS   DURATION   AGE
+pairs-parallel   Complete   4/4           6s         75s
+NAME                     READY   STATUS      RESTARTS   AGE
+pairs-parallel-0-n4jmh   0/1     Completed   0          75s
+pairs-parallel-1-fj2cf   0/1     Completed   0          75s
+pairs-parallel-2-vbkhb   0/1     Completed   0          72s
+pairs-parallel-3-2dw57   0/1     Completed   0          72s

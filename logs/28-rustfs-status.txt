@@ -1,0 +1,10 @@
+NAME                     READY   UP-TO-DATE   AVAILABLE   AGE
+deployment.apps/rustfs   1/1     1            1           3m16s
+
+NAME             TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)             AGE
+service/rustfs   ClusterIP   10.109.201.197   <none>        9000/TCP,9001/TCP   3m16s
+
+NAME                                STATUS   VOLUME                                     CAPACITY   ACCESS MODES   STORAGECLASS   VOLUMEATTRIBUTESCLASS   AGE
+persistentvolumeclaim/rustfs-data   Bound    pvc-38e94a0f-1550-4d96-aef7-d7106beaa8f1   5Gi        RWO            standard       <unset>                 3m16s
+NAME                      READY   STATUS    RESTARTS   AGE     IP           NODE     NOMINATED NODE   READINESS GATES
+rustfs-66b7cb77b8-8c7l8   1/1     Running   0          3m16s   10.244.0.6   de-k8s   <none>           <none>

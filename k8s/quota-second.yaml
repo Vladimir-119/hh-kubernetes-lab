@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: quota-second
+  namespace: hh-quota-demo
+spec:
+  restartPolicy: Never
+  terminationGracePeriodSeconds: 1
+  containers:
+    - name: sleeper
+      image: hh-pairs:lab
+      imagePullPolicy: IfNotPresent
+      command: ["python3", "-c", "import time; time.sleep(3600)"]
+      resources:
+        requests:
+          cpu: "600m"
+          memory: "32Mi"
+        limits:
+          cpu: "1"
+          memory: "128Mi"

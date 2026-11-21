@@ -1,0 +1,2 @@
+NAME              PHASE    REASON      EXIT   MEM_REQUEST   MEM_LIMIT
+pairs-oom-9rmpg   Failed   OOMKilled   137    12Mi          12Mi

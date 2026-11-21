@@ -1,0 +1,8 @@
+Error from server (Forbidden): error when creating "k8s/quota-second.yaml": pods "quota-second" is forbidden: exceeded quota: lab-cpu-quota, requested: requests.cpu=600m, used: requests.cpu=600m, limited: requests.cpu=1
+Name:         lab-cpu-quota
+Namespace:    hh-quota-demo
+Resource      Used  Hard
+--------      ----  ----
+requests.cpu  600m  1
+NAME          READY   STATUS    RESTARTS   AGE
+quota-first   1/1     Running   0          12s

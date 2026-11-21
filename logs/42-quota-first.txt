@@ -1,0 +1,10 @@
+namespace/hh-quota-demo created
+resourcequota/lab-cpu-quota created
+resourcequota/lab-cpu-quota condition met
+pod/quota-first created
+pod/quota-first condition met
+Name:         lab-cpu-quota
+Namespace:    hh-quota-demo
+Resource      Used  Hard
+--------      ----  ----
+requests.cpu  600m  1
